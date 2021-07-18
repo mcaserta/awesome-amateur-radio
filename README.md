@@ -60,21 +60,22 @@ Awesome Amateur Radio Resources and Links.
 
 # digital modes
 
-- [JTDX](https://www.jtdx.tech/en/), [source](https://github.com/jtdx-project/jtdx)
-- [WSJT-X](https://physics.princeton.edu/pulsar/k1jt/wsjtx.html)
-- [WSJT-X User Guide](https://physics.princeton.edu/pulsar/k1jt/wsjtx-doc/wsjtx-main-2.4.0.html)
-- [PSK Reporter](https://pskreporter.info/)
-- [WSPRnet](http://wsprnet.org/)
+- [FreeDV](https://freedv.org/)
+- [The FT4 and FT8 Communication Protocols](https://physics.princeton.edu/pulsar/k1jt/FT4_FT8_QEX.pdf)
 - [FT8 QRG](https://www.sigidwiki.com/wiki/FT8#Frequencies)
 - [FT8 intro](https://docs.google.com/presentation/d/e/2PACX-1vRDYMNACPkwAs5tVkFfLibA08quk3ClhhzzI8N0WUJxkzdNOCEnd50yqvAcKbACyJwx-r5ZTH6S7YPY/pub)
 - [FT8 tips](https://www.g4ifb.com/FT8_Hinson_tips_for_HF_DXers.pdf)
-- [The FT4 and FT8 Communication Protocols](https://physics.princeton.edu/pulsar/k1jt/FT4_FT8_QEX.pdf)
-- [Q65 Quick Start](https://physics.princeton.edu/pulsar/k1jt/Q65_Quick_Start.pdf)
-- [Sound Card Packet](https://www.soundcardpacket.org/)
 - [ISS Packet Operation](https://www.ariss.org/uploads/1/9/6/8/19681527/k9jkm_2012_symposium_ver2.pdf)
-- [FreeDV](https://freedv.org/)
-- [QTSoundModem](https://www.cantab.net/users/john.wiseman/Documents/QtSoundModem.html)
+- [JTDX](https://www.jtdx.tech/en/), [source](https://github.com/jtdx-project/jtdx)
 - [Packet Radio: LinBPQ Ready to Go](https://eindhoven.space/2020/11/01/linux-linbpq-ready-to-go/)
+- [PSK Reporter](https://pskreporter.info/)
+- [Q65 Quick Start](https://physics.princeton.edu/pulsar/k1jt/Q65_Quick_Start.pdf)
+- [QTSoundModem](https://www.cantab.net/users/john.wiseman/Documents/QtSoundModem.html)
+- [Sound Card Packet](https://www.soundcardpacket.org/)
+- [WSJT-X](https://physics.princeton.edu/pulsar/k1jt/wsjtx.html)
+- [WSJT-X User Guide](https://physics.princeton.edu/pulsar/k1jt/wsjtx-doc/wsjtx-main-2.4.0.html)
+- [WSJT-X Split Operation](https://www.k0pir.us/wsjt-x-split-operation/)
+- [WSPRnet](http://wsprnet.org/)
 
 # interface
 
