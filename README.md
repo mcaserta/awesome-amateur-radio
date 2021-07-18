@@ -92,6 +92,7 @@ Awesome Amateur Radio Resources and Links.
 - [Ham Alert](https://hamalert.org/)
 - [Low-Pass Filter Designs](https://www.sotabeams.co.uk/content/LPF-DESIGNS.pdf)
 - [QRZ](https://www.qrz.com/)
+- [r/amateurradio](https://www.reddit.com/r/amateurradio/)
 - [Signal Identification Guide](https://www.sigidwiki.com/wiki/Signal_Identification_Guide)
 - [SOTAbeams](https://www.sotabeams.co.uk/)
 
@@ -99,6 +100,19 @@ Awesome Amateur Radio Resources and Links.
 
 - [Frequenze Civili](https://www.iz3veo.it/download-doc/file/doc/TUTTE_LE_FREQUENZE_SEGRETE_V-2.pdf)
 - [Ponti](http://www.ik2ane.it/pontipdf.pdf)
+
+# organizations
+
+- Canada
+  - [RAC](https://www.rac.ca/) 
+- Germany
+  - [DARC](https://www.darc.de/)
+- Italy
+  - [ARI](http://ari.it/)
+- Japan
+  - [JARL](https://jarl.org/)
+- USA
+  - [ARRL](http://www.arrl.org/)
 
 # propagation
 
@@ -130,18 +144,18 @@ Awesome Amateur Radio Resources and Links.
   - [FT 991A](https://www.yaesu.com/indexVS.cfm?cmd=DisplayProducts&ProdCatID=102%20%20%20%20%20%20%20%20%20&encProdID=490C4A71118AD0F4E825E89D821B73BB&DivisionID=65&isArchived=0), [manual](https://www.yaesu.com/downloadFile.cfm?FileID=16621&FileCatID=158&FileName=FT%2D991A%5FOM%5FENG%5FEH067M205%5F2006J%2DFS%2D1.pdf&FileContentType=application%2Fpdf)
   - [FT DX 10](https://www.yaesu.com/indexVS.cfm?cmd=DisplayProducts&ProdCatID=102%20%20%20%20%20%20%20%20%20&encProdID=1ABBC23C7EC57175A35CB0FDE7A639A0&DivisionID=65&isArchived=0), [manual](https://www.yaesu.com/downloadFile.cfm?FileID=16972&FileCatID=158&FileName=FTDX10%5FOM%5FENG%5FEH076H200%5F2102K%2DCS%2D6.pdf&FileContentType=application%2Fpdf)
 
+# satellite
+
+- [AMSAT](https://www.amsat.org/)
+- [ISS](https://www.ariss.org/contact-the-iss.html)
+- [QO-100](https://m0lte.uk/index.php/2019/07/17/qo-100-eshail-2-probably-your-best-ever-dx/)
+
 # sdr 
 
 - [hdsdr](http://hdsdr.de/)
 - [kiwisdr](http://kiwisdr.com/)
 - [OpenWebRX](https://www.openwebrx.de/)
 - [WebSDR](http://www.websdr.org/)
-
-# satellite
-
-- [AMSAT](https://www.amsat.org/)
-- [ISS](https://www.ariss.org/contact-the-iss.html)
-- [QO-100](https://m0lte.uk/index.php/2019/07/17/qo-100-eshail-2-probably-your-best-ever-dx/)
 
 # shopping
 
