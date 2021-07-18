@@ -112,9 +112,11 @@ Awesome Amateur Radio Resources and Links.
 - Japan 🇯🇵
   - [JARL](https://jarl.org/)
 - UK 🇬🇧
+  - [GQRP](http://www.gqrp.com/)
   - [RSGB](https://rsgb.org/) 
 - USA 🇺🇸
   - [ARRL](http://www.arrl.org/)
+  - [TAPR](https://tapr.org/)
 
 # propagation
 
