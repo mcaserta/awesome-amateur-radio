@@ -29,7 +29,7 @@ Awesome Amateur Radio Resources and Links.
 
 ## analyzer
 
-- [nanoVNA](https://www.amazon.it/dp/B07TKM7748/)
+- [nanoVNA](https://nanovna.com/)
 - [Getting Started With The NanoVNA (1)](https://hexandflex.com/2019/08/31/getting-started-with-the-nanovna-part-1/)
 - [Getting Started With The NanoVNA (2)](http://www.gunthard-kraus.de/fertig_NanoVNA/English/English_NanoVNA_2020_part%201.pdf)
 - [MFJ 259D](https://mfjenterprises.com/products/mfj-259d)
