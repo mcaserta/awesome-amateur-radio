@@ -94,7 +94,6 @@ Awesome Amateur Radio Resources and Links.
 - [QRZ](https://www.qrz.com/)
 - [r/amateurradio](https://www.reddit.com/r/amateurradio/)
 - [Signal Identification Guide](https://www.sigidwiki.com/wiki/Signal_Identification_Guide)
-- [SOTAbeams](https://www.sotabeams.co.uk/)
 
 ## Italy
 
@@ -103,15 +102,17 @@ Awesome Amateur Radio Resources and Links.
 
 # organizations
 
-- Canada
+- Canada 🇨🇦
   - [RAC](https://www.rac.ca/) 
-- Germany
+- Germany 🇩🇪
   - [DARC](https://www.darc.de/)
-- Italy
+- Italy 🇮🇹
   - [ARI](http://ari.it/)
-- Japan
+- Japan 🇯🇵
   - [JARL](https://jarl.org/)
-- USA
+- UK 🇬🇧
+  - [RSGB](https://rsgb.org/) 
+- USA 🇺🇸
   - [ARRL](http://www.arrl.org/)
 
 # propagation
@@ -169,6 +170,8 @@ Although these shops are listed by country, they might provide world wide shippi
   - [Mascar](http://www.mascar.com/)
   - [MHz Radio Store](https://www.megahertzradiostore.it/)
   - [SMTechnology](https://www.smtechnology.it/)
+- UK 🇬🇧
+  - [SOTAbeams](https://www.sotabeams.co.uk/) 
 - USA 🇺🇸
   - [DX Engineering](https://www.dxengineering.com/) 
   - [Kits and Parts](https://kitsandparts.com/)
