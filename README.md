@@ -173,8 +173,10 @@ Although these shops are listed by country, they might provide world wide shippi
   - [Passion Radio](https://www.passion-radio.com/) 
 - Italy 🇮🇹
   - [CSY & Son](https://www.csyeson.it/)
+  - [Ham Radio Shop](https://www.hamradioshop.it/)
   - [IW0FVT](https://romaradiofvt.com/)
   - [Mascar](http://www.mascar.com/)
+  - [Mediaglobe](https://www.mediaglobe.it/)
   - [MHz Radio Store](https://www.megahertzradiostore.it/)
   - [SMTechnology](https://www.smtechnology.it/)
 - UK 🇬🇧
