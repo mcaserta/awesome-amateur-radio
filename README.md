@@ -126,24 +126,27 @@ Awesome Amateur Radio Resources and Links.
 # rig
 
 - Baofeng
-  - [UV-5R](https://www.baofengradio.com/collections/uv-series/products/uv-5r), [manual](https://baofengtech.com/wp-content/uploads/2020/09/BaoFeng_UV-5R_Manual.pdf)
+  - [UV-5R](https://www.baofengradio.com/collections/uv-series/products/uv-5r), [manual](manuals/baofeng-uv5r.pdf)
 - Icom
-  - [IC 728](https://www.universal-radio.com/catalog/hamhf/728.html), [manual](https://www.icomjapan.com/uploads/support/manual/IC-728_729.pdf)
-  - [IC 910](http://www.icomamerica.com/en/products/amateur/satellite/910h/specifications.aspx), [manual](https://www.icomamerica.com/en/downloads/DownloadDocument.aspx?Document=32)
-  - [IC 7000](http://www.icomamerica.com/en/products/amateur/hf/7000/default.aspx), [manual](https://icomuk.co.uk/files/icom/PDF/productManual/IC-7000man.pdf)
-  - [IC 7100](https://www.icomeurope.com/en/product/ic-7100/), [manual](https://www.icomjapan.com/uploads/support/manual/IC-7100_ENG_FM_5.pdf)
-  - [IC 7300](https://www.icomeurope.com/en/product/ic-7300/), [manual](https://www.icomjapan.com/uploads/support/manual/IC-7300_ENG_FM_10.pdf)
-  - [IC 7400](https://icomuk.co.uk/ic-7400-hf-50mhz-144mhz-base-station-transceiver/4081/1267/104/), [manual](https://icomuk.co.uk/files/icom/PDF/productManual/7400um.pdf)
-  - [IC 7610](https://www.icomeurope.com/en/product/ic-7610/), [manual](https://www.icomjapan.com/uploads/support/manual/IC-7610_ENG_Basic_5.pdf)
-  - [IC 9700](https://www.icomeurope.com/en/product/ic-9700/), [manual](https://www.icomjapan.com/uploads/support/manual/IC-9700_ENG_Basic_3.pdf)
+  - [IC 728/729](https://www.universal-radio.com/catalog/hamhf/728.html), [manual](manuals/icom-ic-728-729.pdf)
+  - [IC 910](http://www.icomamerica.com/en/products/amateur/satellite/910h/specifications.aspx), [manual](manuals/icom-ic-910.pdf)
+  - [IC 7000](http://www.icomamerica.com/en/products/amateur/hf/7000/default.aspx), [manual](manuals/icom-ic-7000.pdf)
+  - [IC 7100](https://www.icomeurope.com/en/product/ic-7100/), [manual](manuals/icom-ic-7100.pdf)
+  - [IC 7300](https://www.icomeurope.com/en/product/ic-7300/), [manual](manuals/icom-ic-7300.pdf)
+  - [IC 7400](https://icomuk.co.uk/ic-7400-hf-50mhz-144mhz-base-station-transceiver/4081/1267/104/), [manual](manuals/icom-ic-7400.pdf)
+  - [IC 7610](https://www.icomeurope.com/en/product/ic-7610/), [manual](manuals/icom-ic-7610.pdf)
+  - [IC 9700](https://www.icomeurope.com/en/product/ic-9700/), [manual](manuals/icom-ic-9700.pdf)
 - Kenwood
-  - [TR-751/851](https://www.universal-radio.com/catalog/hammulti/tr751a.html), [manual](http://www.iw2nmx.it/Kenwood%20-%20Trio/TR-751%20Instruction%20and%20Service%20Manuals%20plus%20mods/TR-751%20Instruction%20Manual.pdf)
+  - [TR-751/851](https://www.universal-radio.com/catalog/hammulti/tr751a.html), [manual](manuals/kenwood-tr-751-851.pdf)
 - Standard
-  - [C5608](http://www.rigpix.com/standard/c5608d.htm), [manual](http://www.rigpix.com/standard/c5608d_manual.pdf)
+  - [C5608](http://www.rigpix.com/standard/c5608d.htm), [manual](manuals/standard-c5608.pdf)
 - Yaesu
-  - [FT 920](https://www.yaesu.com/indexVS.cfm?cmd=DisplayProducts&ProdCatID=102%20%20%20%20%20%20%20%20%20&encProdID=DF10C1174AF8F8CD5A793D8BC5E26B84&DivisionID=65&isArchived=1), [manual](http://www.radiomanual.info/schemi/YAESU_HF/FT-920_user.pdf)
-  - [FT 991A](https://www.yaesu.com/indexVS.cfm?cmd=DisplayProducts&ProdCatID=102%20%20%20%20%20%20%20%20%20&encProdID=490C4A71118AD0F4E825E89D821B73BB&DivisionID=65&isArchived=0), [manual](https://www.yaesu.com/downloadFile.cfm?FileID=16621&FileCatID=158&FileName=FT%2D991A%5FOM%5FENG%5FEH067M205%5F2006J%2DFS%2D1.pdf&FileContentType=application%2Fpdf)
-  - [FT DX 10](https://www.yaesu.com/indexVS.cfm?cmd=DisplayProducts&ProdCatID=102%20%20%20%20%20%20%20%20%20&encProdID=1ABBC23C7EC57175A35CB0FDE7A639A0&DivisionID=65&isArchived=0), [manual](https://www.yaesu.com/downloadFile.cfm?FileID=16972&FileCatID=158&FileName=FTDX10%5FOM%5FENG%5FEH076H200%5F2102K%2DCS%2D6.pdf&FileContentType=application%2Fpdf)
+  - [FT 920](https://www.yaesu.com/indexVS.cfm?cmd=DisplayProducts&ProdCatID=102%20%20%20%20%20%20%20%20%20&encProdID=DF10C1174AF8F8CD5A793D8BC5E26B84&DivisionID=65&isArchived=1), 
+      [manual](manuals/yaesu-ft-920.pdf)
+  - [FT 991A](https://www.yaesu.com/indexVS.cfm?cmd=DisplayProducts&ProdCatID=102%20%20%20%20%20%20%20%20%20&encProdID=490C4A71118AD0F4E825E89D821B73BB&DivisionID=65&isArchived=0), 
+      [manual](manuals/yaesu-ft-991a.pdf)
+  - [FT DX 10](https://www.yaesu.com/indexVS.cfm?cmd=DisplayProducts&ProdCatID=102%20%20%20%20%20%20%20%20%20&encProdID=1ABBC23C7EC57175A35CB0FDE7A639A0&DivisionID=65&isArchived=0), 
+      [manual](manuals/yaesu-ftdx10.pdf)
 
 # satellite
 
