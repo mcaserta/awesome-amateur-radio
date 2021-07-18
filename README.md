@@ -122,6 +122,7 @@ Awesome Amateur Radio Resources and Links.
 - [MUF](https://prop.kc2g.com/) 
 - [Solar Terrestrial Data](http://www.hamqsl.com/solarvhf.php)
 - [Space Weather Parameters and Propagation](http://k9la.us/Jun21_Space_Weather_Parameters_and_Propagation_-_revised_1Jun2021.pdf)
+- [What is Radio Propagation?](https://www.electronics-notes.com/articles/antennas-propagation/propagation-overview/basics.php)
 
 # rig
 
