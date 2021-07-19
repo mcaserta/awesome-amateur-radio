@@ -158,6 +158,10 @@ Awesome Amateur Radio Resources and Links.
       [manual](manuals/yaesu-ftdx101mp-d.pdf)
   - [FT DX 101MP](https://www.yaesu.com/indexVS.cfm?cmd=DisplayProducts&ProdCatID=102&encProdID=BA2F414449407A4D3D23461143F88429&DivisionID=65&isArchived=0),
       [manual](manuals/yaesu-ftdx101mp-d.pdf)
+- Xiegu
+  - [G1M](https://xiegu.eu/product/xiegu-g1m/), [manual](manuals/G1M-user-manual-1.0.0-beta.pdf)
+  - [G90](https://xiegu.eu/product/xiegu-g90-hf-20w-sdr-transceiver/), [manual](manuals/G90-Operators-Manual-v1.0.4.pdf)
+  - [X5105](https://xiegu.eu/product/xiegu-x5105-qrp-transceiver/), [manual](manuals/X5105-User-Manual-v3.0-EN-2.pdf)
 
 # satellite
 
