@@ -103,6 +103,8 @@ Awesome Amateur Radio Resources and Links.
 
 # organizations
 
+- Australia 🇦🇺
+  - [WIA](https://www.wia.org.au)
 - Canada 🇨🇦
   - [RAC](https://www.rac.ca/) 
 - Germany 🇩🇪
