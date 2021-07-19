@@ -192,6 +192,7 @@ Although these shops are listed by country, they might provide world wide shippi
   - [Mascar](http://www.mascar.com/)
   - [Mediaglobe](https://www.mediaglobe.it/)
   - [MHz Radio Store](https://www.megahertzradiostore.it/)
+  - [Radiofrequenza Shop](https://www.radiofrequenzashop.com/)
   - [SMTechnology](https://www.smtechnology.it/)
 - UK 🇬🇧
   - [SOTAbeams](https://www.sotabeams.co.uk/) 
