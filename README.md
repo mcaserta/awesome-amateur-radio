@@ -111,14 +111,14 @@ Awesome Amateur Radio Resources and Links.
   - [ARI](http://ari.it/)
 - Japan 🇯🇵
   - [JARL](https://jarl.org/)
+- New Zealand 🇳🇿
+  - [NZART](https://www.nzart.org.nz/)
 - UK 🇬🇧
   - [GQRP](http://www.gqrp.com/)
   - [RSGB](https://rsgb.org/) 
 - USA 🇺🇸
   - [ARRL](http://www.arrl.org/)
   - [TAPR](https://tapr.org/)
-- New Zealand 🇳🇿
-  - [NZART](https://www.nzart.org.nz/)
 
 # propagation
 
