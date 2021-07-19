@@ -190,6 +190,7 @@ Although these shops are listed by country, they might provide world wide shippi
   - [SOTAbeams](https://www.sotabeams.co.uk/)
 - USA 🇺🇸
   - [DX Engineering](https://www.dxengineering.com/)
+  - [Gigaparts](https://www.gigaparts.com/)
   - [Kits and Parts](https://kitsandparts.com/)
   - [MFJ](https://mfjenterprises.com/)
   - [RFSpace](http://www.rfspace.com/)
