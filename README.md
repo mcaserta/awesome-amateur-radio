@@ -104,8 +104,8 @@ Awesome Amateur Radio Resources and Links.
 # organizations
 
 - Australia 🇦🇺
-  - [WIA](https://www.wia.org.au)
   - [RASA](https://vkradioamateurs.org)
+  - [WIA](https://www.wia.org.au)
 - Canada 🇨🇦
   - [RAC](https://www.rac.ca/) 
 - Germany 🇩🇪
@@ -156,6 +156,10 @@ Awesome Amateur Radio Resources and Links.
       [manual](manuals/yaesu-ft-991a.pdf)
   - [FT DX 10](https://www.yaesu.com/indexVS.cfm?cmd=DisplayProducts&ProdCatID=102%20%20%20%20%20%20%20%20%20&encProdID=1ABBC23C7EC57175A35CB0FDE7A639A0&DivisionID=65&isArchived=0), 
       [manual](manuals/yaesu-ftdx10.pdf)
+  - [FT DX 101D](https://www.yaesu.com/indexVS.cfm?cmd=DisplayProducts&ProdCatID=102&encProdID=959169DE998192AB87295E90077D740D&DivisionID=65&isArchived=0),
+      [manual](manuals/yaesu-ftdx101mp-d.pdf)
+  - [FT DX 101MP](https://www.yaesu.com/indexVS.cfm?cmd=DisplayProducts&ProdCatID=102&encProdID=BA2F414449407A4D3D23461143F88429&DivisionID=65&isArchived=0),
+      [manual](manuals/yaesu-ftdx101mp-d.pdf)
 - Xiegu
   - [G1M](https://xiegu.eu/product/xiegu-g1m/), [manual](https://xiegu.eu/?smd_process_download=1&download_id=576)
   - [G90](https://xiegu.eu/product/xiegu-g90-hf-20w-sdr-transceiver/), [manual](https://xiegu.eu/?smd_process_download=1&download_id=1033)
