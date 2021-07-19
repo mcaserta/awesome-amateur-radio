@@ -117,6 +117,8 @@ Awesome Amateur Radio Resources and Links.
 - USA 🇺🇸
   - [ARRL](http://www.arrl.org/)
   - [TAPR](https://tapr.org/)
+ - New Zealand 🇳🇿
+  - [NZART](https://www.nzart.org.nz/)
 
 # propagation
 
