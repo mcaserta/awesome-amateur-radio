@@ -105,6 +105,7 @@ Awesome Amateur Radio Resources and Links.
 
 - Australia 🇦🇺
   - [WIA](https://www.wia.org.au)
+  - [RASA](https://vkradioamateurs.org)
 - Canada 🇨🇦
   - [RAC](https://www.rac.ca/) 
 - Germany 🇩🇪
@@ -155,7 +156,11 @@ Awesome Amateur Radio Resources and Links.
       [manual](manuals/yaesu-ft-991a.pdf)
   - [FT DX 10](https://www.yaesu.com/indexVS.cfm?cmd=DisplayProducts&ProdCatID=102%20%20%20%20%20%20%20%20%20&encProdID=1ABBC23C7EC57175A35CB0FDE7A639A0&DivisionID=65&isArchived=0), 
       [manual](manuals/yaesu-ftdx10.pdf)
-
+- Xiegu
+  - [G1M](https://xiegu.eu/product/xiegu-g1m/), [manual](https://xiegu.eu/?smd_process_download=1&download_id=576)
+  - [G90](https://xiegu.eu/product/xiegu-g90-hf-20w-sdr-transceiver/), [manual](https://xiegu.eu/?smd_process_download=1&download_id=1033)
+  - [X5105](https://xiegu.eu/product/xiegu-x5105-qrp-transceiver/), [manual](https://xiegu.eu/?smd_process_download=1&download_id=1460)
+ 
 # satellite
 
 - [AMSAT](https://www.amsat.org/)
