@@ -94,6 +94,7 @@ Awesome Amateur Radio Resources and Links.
 - [Low-Pass Filter Designs](https://www.sotabeams.co.uk/content/LPF-DESIGNS.pdf)
 - [QRZ](https://www.qrz.com/)
 - [r/amateurradio](https://www.reddit.com/r/amateurradio/)
+- [Sherwood Engineering Receiver Test Data](http://www.sherweng.com/table.html)
 - [Signal Identification Guide](https://www.sigidwiki.com/wiki/Signal_Identification_Guide)
 
 ## Italy
@@ -103,11 +104,8 @@ Awesome Amateur Radio Resources and Links.
 
 # organizations
 
-- Australia 🇦🇺
-  - [WIA](https://www.wia.org.au)
-  - [RASA](https://vkradioamateurs.org)
 - Canada 🇨🇦
-  - [RAC](https://www.rac.ca/) 
+  - [RAC](https://www.rac.ca/)
 - Germany 🇩🇪
   - [DARC](https://www.darc.de/)
 - Italy 🇮🇹
@@ -118,7 +116,7 @@ Awesome Amateur Radio Resources and Links.
   - [NZART](https://www.nzart.org.nz/)
 - UK 🇬🇧
   - [GQRP](http://www.gqrp.com/)
-  - [RSGB](https://rsgb.org/) 
+  - [RSGB](https://rsgb.org/)
 - USA 🇺🇸
   - [ARRL](http://www.arrl.org/)
   - [TAPR](https://tapr.org/)
@@ -127,7 +125,7 @@ Awesome Amateur Radio Resources and Links.
 
 - [DX Maps](https://www.dxmaps.com/)
 - [HF Propagation](https://www.voacap.com/)
-- [MUF](https://prop.kc2g.com/) 
+- [MUF](https://prop.kc2g.com/)
 - [Solar Terrestrial Data](http://www.hamqsl.com/solarvhf.php)
 - [Space Weather Parameters and Propagation](http://k9la.us/Jun21_Space_Weather_Parameters_and_Propagation_-_revised_1Jun2021.pdf)
 - [What is Radio Propagation?](https://www.electronics-notes.com/articles/antennas-propagation/propagation-overview/basics.php)
@@ -150,24 +148,28 @@ Awesome Amateur Radio Resources and Links.
 - Standard
   - [C5608](http://www.rigpix.com/standard/c5608d.htm), [manual](manuals/standard-c5608.pdf)
 - Yaesu
-  - [FT 920](https://www.yaesu.com/indexVS.cfm?cmd=DisplayProducts&ProdCatID=102%20%20%20%20%20%20%20%20%20&encProdID=DF10C1174AF8F8CD5A793D8BC5E26B84&DivisionID=65&isArchived=1), 
+  - [FT 920](https://www.yaesu.com/indexVS.cfm?cmd=DisplayProducts&ProdCatID=102%20%20%20%20%20%20%20%20%20&encProdID=DF10C1174AF8F8CD5A793D8BC5E26B84&DivisionID=65&isArchived=1),
       [manual](manuals/yaesu-ft-920.pdf)
-  - [FT 991A](https://www.yaesu.com/indexVS.cfm?cmd=DisplayProducts&ProdCatID=102%20%20%20%20%20%20%20%20%20&encProdID=490C4A71118AD0F4E825E89D821B73BB&DivisionID=65&isArchived=0), 
+  - [FT 991A](https://www.yaesu.com/indexVS.cfm?cmd=DisplayProducts&ProdCatID=102%20%20%20%20%20%20%20%20%20&encProdID=490C4A71118AD0F4E825E89D821B73BB&DivisionID=65&isArchived=0),
       [manual](manuals/yaesu-ft-991a.pdf)
-  - [FT DX 10](https://www.yaesu.com/indexVS.cfm?cmd=DisplayProducts&ProdCatID=102%20%20%20%20%20%20%20%20%20&encProdID=1ABBC23C7EC57175A35CB0FDE7A639A0&DivisionID=65&isArchived=0), 
+  - [FT DX 10](https://www.yaesu.com/indexVS.cfm?cmd=DisplayProducts&ProdCatID=102%20%20%20%20%20%20%20%20%20&encProdID=1ABBC23C7EC57175A35CB0FDE7A639A0&DivisionID=65&isArchived=0),
       [manual](manuals/yaesu-ftdx10.pdf)
+  - [FT DX 101D](https://www.yaesu.com/indexVS.cfm?cmd=DisplayProducts&ProdCatID=102&encProdID=959169DE998192AB87295E90077D740D&DivisionID=65&isArchived=0),
+      [manual](manuals/yaesu-ftdx101mp-d.pdf)
+  - [FT DX 101MP](https://www.yaesu.com/indexVS.cfm?cmd=DisplayProducts&ProdCatID=102&encProdID=BA2F414449407A4D3D23461143F88429&DivisionID=65&isArchived=0),
+      [manual](manuals/yaesu-ftdx101mp-d.pdf)
 - Xiegu
   - [G1M](https://xiegu.eu/product/xiegu-g1m/), [manual](manuals/G1M-user-manual-1.0.0-beta.pdf)
   - [G90](https://xiegu.eu/product/xiegu-g90-hf-20w-sdr-transceiver/), [manual](manuals/G90-Operators-Manual-v1.0.4.pdf)
   - [X5105](https://xiegu.eu/product/xiegu-x5105-qrp-transceiver/), [manual](manuals/X5105-User-Manual-v3.0-EN-2.pdf)
- 
+
 # satellite
 
 - [AMSAT](https://www.amsat.org/)
 - [ISS](https://www.ariss.org/contact-the-iss.html)
 - [QO-100](https://m0lte.uk/index.php/2019/07/17/qo-100-eshail-2-probably-your-best-ever-dx/)
 
-# sdr 
+# sdr
 
 - [hdsdr](http://hdsdr.de/)
 - [kiwisdr](http://kiwisdr.com/)
@@ -179,7 +181,8 @@ Awesome Amateur Radio Resources and Links.
 Although these shops are listed by country, they might provide world wide shipping.
 
 - France 🇫🇷
-  - [Passion Radio](https://www.passion-radio.com/) 
+  - [Passion Radio](https://www.passion-radio.com/)
+  - [XBS Telecom](https://www.xbstelecom.eu/)
 - Italy 🇮🇹
   - [CSY & Son](https://www.csyeson.it/)
   - [Ham Radio Shop](https://www.hamradioshop.it/)
@@ -189,10 +192,10 @@ Although these shops are listed by country, they might provide world wide shippi
   - [MHz Radio Store](https://www.megahertzradiostore.it/)
   - [SMTechnology](https://www.smtechnology.it/)
 - UK 🇬🇧
-  - [SOTAbeams](https://www.sotabeams.co.uk/) 
+  - [SOTAbeams](https://www.sotabeams.co.uk/)
 - USA 🇺🇸
-  - [DX Engineering](https://www.dxengineering.com/) 
+  - [DX Engineering](https://www.dxengineering.com/)
+  - [Gigaparts](https://www.gigaparts.com/)
   - [Kits and Parts](https://kitsandparts.com/)
   - [MFJ](https://mfjenterprises.com/)
   - [RFSpace](http://www.rfspace.com/)
-
