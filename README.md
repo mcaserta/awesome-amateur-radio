@@ -94,6 +94,7 @@ Awesome Amateur Radio Resources and Links.
 - [Low-Pass Filter Designs](https://www.sotabeams.co.uk/content/LPF-DESIGNS.pdf)
 - [QRZ](https://www.qrz.com/)
 - [r/amateurradio](https://www.reddit.com/r/amateurradio/)
+- [Sherwood Engineering Receiver Test Data](http://www.sherweng.com/table.html)
 - [Signal Identification Guide](https://www.sigidwiki.com/wiki/Signal_Identification_Guide)
 
 ## Italy
