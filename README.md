@@ -104,6 +104,9 @@ Awesome Amateur Radio Resources and Links.
 
 # organizations
 
+- Australia 🇦🇺
+  - [WIA](https://www.wia.org.au)
+  - [RASA](https://vkradioamateurs.org)
 - Canada 🇨🇦
   - [RAC](https://www.rac.ca/)
 - Germany 🇩🇪
@@ -180,6 +183,10 @@ Awesome Amateur Radio Resources and Links.
 
 Although these shops are listed by country, they might provide world wide shipping.
 
+- Australia 🇦🇺
+  - [Andrews](http://www.andrewscom.com.au)
+  - [MiniKits](https://www.minikits.com.au)
+  - [Strictly Ham](https://www.strictlyham.com.au)
 - France 🇫🇷
   - [Passion Radio](https://www.passion-radio.com/)
   - [XBS Telecom](https://www.xbstelecom.eu/)
