@@ -105,6 +105,7 @@ Awesome Amateur Radio Resources and Links.
 
 - Australia 🇦🇺
   - [WIA](https://www.wia.org.au)
+  - [RASA](https://vkradioamateurs.org)
 - Canada 🇨🇦
   - [RAC](https://www.rac.ca/) 
 - Germany 🇩🇪
