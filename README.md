@@ -172,6 +172,7 @@ Awesome Amateur Radio Resources and Links.
 # satellite
 
 - [AMSAT](https://www.amsat.org/)
+- [AO-109](https://www.amsat.org/ao-109-radfxsat-2-amsat-fox-1e-open-for-amateur-use/)
 - [ISS](https://www.ariss.org/contact-the-iss.html)
 - [QO-100](https://m0lte.uk/index.php/2019/07/17/qo-100-eshail-2-probably-your-best-ever-dx/)
 
