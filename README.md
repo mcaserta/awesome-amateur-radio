@@ -23,6 +23,7 @@ Awesome Amateur Radio Resources and Links.
 - [J-Pole Calculator](https://m0ukd.com/calculators/slim-jim-and-j-pole-calculator/)
 - [MFJ-1622](https://mfjenterprises.com/products/mfj-1622)
 - [MFJ-2286](https://mfjenterprises.com/products/mfj-2286)
+- [Squid pole verticals](http://perite.vk7jj.com/vk7jj/squidpoles.html)
 - [Tecsun AN200 auto sintonizzabile Mediumwave MW Loop Antenna DESKTOP Portable](https://www.amazon.it/dp/B00BI9WMQM)
 - [TXYFYP MLA-30 Loop](https://www.amazon.it/dp/B083DY2BJS)
 - [VHF UHF Duplexer](http://www.radioamatoripeligni.it/i6ibe/duplexer/duplexer.htm)
