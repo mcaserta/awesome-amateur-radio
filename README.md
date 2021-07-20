@@ -88,6 +88,7 @@ Awesome Amateur Radio Resources and Links.
 
 # misc
 
+- [425 DX News](https://www.425dxn.org/)
 - [ClubLog](https://clublog.org/)
 - [Communicating with Other Hams](http://www.arrl.org/files/file/Get%20on%20the%20Air/Comm%20w%20Other%20Hams-Q%20Signals.pdf)
 - [Contest Calendar](https://www.contestcalendar.com/)
