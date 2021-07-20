@@ -89,11 +89,13 @@ Awesome Amateur Radio Resources and Links.
 # misc
 
 - [ClubLog](https://clublog.org/)
+- [Communicating with Other Hams](http://www.arrl.org/files/file/Get%20on%20the%20Air/Comm%20w%20Other%20Hams-Q%20Signals.pdf)
 - [Contest Calendar](https://www.contestcalendar.com/)
 - [HFlink](http://hflink.com/)
 - [DX Zone](https://www.dxzone.com/)
 - [Ham Alert](https://hamalert.org/)
 - [Low-Pass Filter Designs](https://www.sotabeams.co.uk/content/LPF-DESIGNS.pdf)
+- [Q Code](https://en.wikipedia.org/wiki/Q_code)
 - [QRZ](https://www.qrz.com/)
 - [r/amateurradio](https://www.reddit.com/r/amateurradio/)
 - [Sherwood Engineering Receiver Test Data](http://www.sherweng.com/table.html)
