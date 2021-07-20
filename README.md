@@ -83,6 +83,7 @@ Awesome Amateur Radio Resources and Links.
 - [MGE Digicat](https://www.ebay.it/itm/184712007403)
 - [MicroHAM](https://www.microham.com/)
 - [RigExpert TI-3000](https://www.mediaglobe.it/index.php?route=product/product&product_id=8182)
+- [SignaLink USB](https://www.tigertronics.com/slusbmain.htm)
 
 # misc
 
