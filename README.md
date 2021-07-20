@@ -23,6 +23,7 @@ Awesome Amateur Radio Resources and Links.
 - [J-Pole Calculator](https://m0ukd.com/calculators/slim-jim-and-j-pole-calculator/)
 - [MFJ-1622](https://mfjenterprises.com/products/mfj-1622)
 - [MFJ-2286](https://mfjenterprises.com/products/mfj-2286)
+- [Squid pole verticals](http://perite.vk7jj.com/vk7jj/squidpoles.html)
 - [Tecsun AN200 auto sintonizzabile Mediumwave MW Loop Antenna DESKTOP Portable](https://www.amazon.it/dp/B00BI9WMQM)
 - [TXYFYP MLA-30 Loop](https://www.amazon.it/dp/B083DY2BJS)
 - [VHF UHF Duplexer](http://www.radioamatoripeligni.it/i6ibe/duplexer/duplexer.htm)
@@ -139,6 +140,7 @@ Awesome Amateur Radio Resources and Links.
 - Baofeng
   - [UV-5R](https://www.baofengradio.com/collections/uv-series/products/uv-5r), [manual](manuals/baofeng-uv5r.pdf)
 - Icom
+  - [IC 705](https://www.icomamerica.com/en/products/amateur/handheld/705/default.aspx), [manual](https://www.icomjapan.com/support/manual/3063/)
   - [IC 728/729](https://www.universal-radio.com/catalog/hamhf/728.html), [manual](manuals/icom-ic-728-729.pdf)
   - [IC 910](http://www.icomamerica.com/en/products/amateur/satellite/910h/specifications.aspx), [manual](manuals/icom-ic-910.pdf)
   - [IC 7000](http://www.icomamerica.com/en/products/amateur/hf/7000/default.aspx), [manual](manuals/icom-ic-7000.pdf)
