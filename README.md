@@ -201,6 +201,8 @@ Although these shops are listed by country, they might provide world wide shippi
   - [Mediaglobe](https://www.mediaglobe.it/)
   - [MHz Radio Store](https://www.megahertzradiostore.it/)
   - [SMTechnology](https://www.smtechnology.it/)
+- Sweden 🇸🇪
+  - [PileupDX](https://pileupdx.com/)
 - UK 🇬🇧
   - [SOTAbeams](https://www.sotabeams.co.uk/)
 - USA 🇺🇸
