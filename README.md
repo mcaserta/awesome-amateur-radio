@@ -93,6 +93,7 @@ Awesome Amateur Radio Resources and Links.
 - [Contest Calendar](https://www.contestcalendar.com/)
 - [HFlink](http://hflink.com/)
 - [DX Zone](https://www.dxzone.com/)
+- [GMRS: Basic Radio Communications](https://www.k0nr.com/wordpress/2021/07/use-gmrs/)
 - [Ham Alert](https://hamalert.org/)
 - [ICAO/NATO Spelling Alphabet](https://en.wikipedia.org/wiki/NATO_phonetic_alphabet)
 - [Low-Pass Filter Designs](https://www.sotabeams.co.uk/content/LPF-DESIGNS.pdf)
