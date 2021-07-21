@@ -69,6 +69,7 @@ Awesome Amateur Radio Resources and Links.
 - [FT8 tips](https://www.g4ifb.com/FT8_Hinson_tips_for_HF_DXers.pdf)
 - [ISS Packet Operation](https://www.ariss.org/uploads/1/9/6/8/19681527/k9jkm_2012_symposium_ver2.pdf)
 - [JTDX](https://www.jtdx.tech/en/), [source](https://github.com/jtdx-project/jtdx)
+- [M17 Project](https://m17project.org/)
 - [Packet Radio: LinBPQ Ready to Go](https://eindhoven.space/2020/11/01/linux-linbpq-ready-to-go/)
 - [PSK Reporter](https://pskreporter.info/)
 - [Q65 Quick Start](https://physics.princeton.edu/pulsar/k1jt/Q65_Quick_Start.pdf)
