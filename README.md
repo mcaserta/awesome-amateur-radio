@@ -6,6 +6,7 @@ Awesome Amateur Radio Resources and Links.
 
 - [6m RG-58 vertical](https://youtu.be/4h7UGNbWmsY)
 - [10m Vertical](https://www.qsl.net/k8mcr/downloads/10meterverticalproject.pdf)
+- [80m Doublet](https://kv5r.com/ham-radio/2018-projects/80-meter-doublet/)
 - [Antentop](http://www.antentop.org/)
 - [Buddipole](https://www.buddipole.com/budepa.html)
 - [Butternut](https://www.dxengineering.com/search/brand/butternut)
@@ -94,6 +95,7 @@ Awesome Amateur Radio Resources and Links.
 - [Contest Calendar](https://www.contestcalendar.com/)
 - [HFlink](http://hflink.com/)
 - [DX Zone](https://www.dxzone.com/)
+- [G5RV Biography](http://www.astrosurf.com/luxorion/Radio/g5rv-biography-mercury.pdf)
 - [GMRS: Basic Radio Communications](https://www.k0nr.com/wordpress/2021/07/use-gmrs/)
 - [Ham Alert](https://hamalert.org/)
 - [ICAO/NATO Spelling Alphabet](https://en.wikipedia.org/wiki/NATO_phonetic_alphabet)
