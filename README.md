@@ -143,6 +143,7 @@ Awesome Amateur Radio Resources and Links.
 
 # propagation
 
+- [DX Info Centre](https://www.dxinfocentre.com/)
 - [DX Maps](https://www.dxmaps.com/)
 - [HF Propagation](https://www.voacap.com/)
 - [MUF](https://prop.kc2g.com/)
