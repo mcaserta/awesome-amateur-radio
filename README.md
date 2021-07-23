@@ -221,6 +221,7 @@ Although these shops are listed by country, they might provide world wide shippi
   - [PileupDX](https://pileupdx.com/)
 - UK 🇬🇧
   - [SOTAbeams](https://www.sotabeams.co.uk/)
+  - [Waters and Stanton](https://hamradiostore.co.uk/)
 - USA 🇺🇸
   - [DX Engineering](https://www.dxengineering.com/)
   - [Gigaparts](https://www.gigaparts.com/)
