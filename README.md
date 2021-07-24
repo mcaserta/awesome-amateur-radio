@@ -108,6 +108,7 @@ Awesome Amateur Radio Resources and Links.
 - [r/amateurradio](https://www.reddit.com/r/amateurradio/)
 - [Sherwood Engineering Receiver Test Data](http://www.sherweng.com/table.html)
 - [Signal Identification Guide](https://www.sigidwiki.com/wiki/Signal_Identification_Guide)
+- [VHF Communications Magazine](http://www.vhfcomm.co.uk/)
 
 ## Italy
 
