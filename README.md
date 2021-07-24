@@ -4,6 +4,7 @@ Awesome Amateur Radio Resources and Links.
 
 # antenna
 
+- [2m Slot Antenna](http://w6nbc.com/articles/20xx-dishslot.pdf)
 - [6m RG-58 vertical](https://youtu.be/4h7UGNbWmsY)
 - [10m Vertical](https://www.qsl.net/k8mcr/downloads/10meterverticalproject.pdf)
 - [80m Doublet](https://kv5r.com/ham-radio/2018-projects/80-meter-doublet/)
