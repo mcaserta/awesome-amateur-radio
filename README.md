@@ -8,6 +8,7 @@ Awesome Amateur Radio Resources and Links.
 - [6m RG-58 vertical](https://youtu.be/4h7UGNbWmsY)
 - [10m Vertical](https://www.qsl.net/k8mcr/downloads/10meterverticalproject.pdf)
 - [80m Doublet](https://kv5r.com/ham-radio/2018-projects/80-meter-doublet/)
+- [160m Spitfire](https://dxnews.com/ua9ba-spitfire-160m/)
 - [Antentop](http://www.antentop.org/)
 - [Buddipole](https://www.buddipole.com/budepa.html)
 - [Butternut](https://www.dxengineering.com/search/brand/butternut)
