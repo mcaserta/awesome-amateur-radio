@@ -61,7 +61,10 @@ Awesome Amateur Radio Resources and Links.
 - [IZ2UUF Koch Android App](https://play.google.com/store/apps/details?id=net.iz2uuf.cwkoch)
 - [Koch](https://stendec.io/morse/koch.html)
 - [Learn CW Online](https://lcwo.net)
+- [Learning CW](http://kn3b.com/learning-cw-morse-code.html)
+- [Seiuchy](https://seiuchy.macache.com/)
 - [Straight Key Century Club](http://www.skccgroup.com/)
+- [Zen and the Art of Radiotelegraphy](https://www.qsl.net/ik0ygj/enu/index.html)
 
 # digital modes
 
