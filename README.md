@@ -97,13 +97,16 @@ Awesome Amateur Radio Resources and Links.
 # misc
 
 - [425 DX News](https://www.425dxn.org/)
+- [Choke Cookbook](http://k9yc.com/2018Cookbook.pdf)
 - [ClubLog](https://clublog.org/)
+- [Common-Mode Chokes](http://www.yccc.org/Articles/W1HIS/CommonModeChokesW1HIS2006Apr06.pdf)
 - [Communicating with Other Hams](http://www.arrl.org/files/file/Get%20on%20the%20Air/Comm%20w%20Other%20Hams-Q%20Signals.pdf)
 - [Contest Calendar](https://www.contestcalendar.com/)
 - [HFlink](http://hflink.com/)
 - [DX Zone](https://www.dxzone.com/)
 - [G5RV Biography](http://www.astrosurf.com/luxorion/Radio/g5rv-biography-mercury.pdf)
 - [GMRS: Basic Radio Communications](https://www.k0nr.com/wordpress/2021/07/use-gmrs/)
+- [Guide to RFI, Ferrites, Baluns, and Audio Interfacing](http://audiosystemsgroup.com/RFI-Ham.pdf)
 - [Ham Alert](https://hamalert.org/)
 - [Ham Clock](http://www.clearskyinstitute.com/ham/HamClock/)
 - [ICAO/NATO Spelling Alphabet](https://en.wikipedia.org/wiki/NATO_phonetic_alphabet)
@@ -159,6 +162,7 @@ Awesome Amateur Radio Resources and Links.
 - [Space Weather Parameters and Propagation](http://k9la.us/Jun21_Space_Weather_Parameters_and_Propagation_-_revised_1Jun2021.pdf)
 - [VOACAP](https://www.voacap.com/)
 - [What is Radio Propagation?](https://www.electronics-notes.com/articles/antennas-propagation/propagation-overview/basics.php)
+
 
 # rig
 
