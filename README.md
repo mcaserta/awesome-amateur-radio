@@ -70,6 +70,7 @@ Awesome Amateur Radio Resources and Links.
 # digital modes
 
 - [FreeDV](https://freedv.org/)
+- [FT4 Protocol](https://physics.princeton.edu//pulsar/k1jt/FT4_Protocol.pdf)
 - [The FT4 and FT8 Communication Protocols](https://physics.princeton.edu/pulsar/k1jt/FT4_FT8_QEX.pdf)
 - [FT8 QRG](https://www.sigidwiki.com/wiki/FT8#Frequencies)
 - [FT8 intro](https://docs.google.com/presentation/d/e/2PACX-1vRDYMNACPkwAs5tVkFfLibA08quk3ClhhzzI8N0WUJxkzdNOCEnd50yqvAcKbACyJwx-r5ZTH6S7YPY/pub)
