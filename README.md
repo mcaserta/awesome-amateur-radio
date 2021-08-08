@@ -118,6 +118,7 @@ Awesome Amateur Radio Resources and Links.
 - [Q Code](https://en.wikipedia.org/wiki/Q_code)
 - [QRZ](https://www.qrz.com/)
 - [r/amateurradio](https://www.reddit.com/r/amateurradio/)
+- [RepeaterBook](https://www.repeaterbook.com/)
 - [Sherwood Engineering Receiver Test Data](http://www.sherweng.com/table.html)
 - [Signal Identification Guide](https://www.sigidwiki.com/wiki/Signal_Identification_Guide)
 - [VHF Communications Magazine](http://www.vhfcomm.co.uk/)
