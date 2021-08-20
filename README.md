@@ -238,11 +238,12 @@ Although these shops are listed by country, they might provide world wide shippi
   - [Mediaglobe](https://www.mediaglobe.it/)
   - [MHz Radio Store](https://www.megahertzradiostore.it/)
   - [SMTechnology](https://www.smtechnology.it/)
-- Spain
+- Spain 🇪🇸
   - [QRP Ham Radio Kits](https://www.qrphamradiokits.com/)
 - Sweden 🇸🇪
   - [PileupDX](https://pileupdx.com/)
 - UK 🇬🇧
+  - [Radio World](https://www.radioworld.co.uk/) 
   - [SOTAbeams](https://www.sotabeams.co.uk/)
   - [Waters and Stanton](https://hamradiostore.co.uk/)
 - USA 🇺🇸
