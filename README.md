@@ -43,6 +43,7 @@ Awesome Amateur Radio Resources and Links.
 ## balun
 
 - [9:1 Balun](http://www.radioamatoripeligni.it/i6ibe/pdf/balun9a1.pdf), [also](http://www.radioamatoripeligni.it/i6ibe/balun9a1/balun9a1.htm)
+- [Baluns: what they do and how they do it](http://eznec.com/Amateur/Articles/Baluns.pdf)
 
 ## tuner
 
