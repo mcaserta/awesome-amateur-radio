@@ -56,6 +56,10 @@ Awesome Amateur Radio Resources and Links.
 - [IARU Region 1 - HF Band Plan](https://www.iaru-r1.org/wp-content/uploads/2021/06/hf_r1_bandplan.pdf)
 - [IARU Region 1 - VHF Band Plan](https://www.iaru-r1.org/wp-content/uploads/2020/12/VHF-Bandplan.pdf)
 
+# contest
+
+- 2021-11-04: [Planet DIGIRADIO 2021](http://www.rdrclub.ru/dni-aktivnosti-rtsrk/391-4-november-planet-digiradio)
+
 # cw
 
 - [CWops](https://cwops.org/)
