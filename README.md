@@ -222,6 +222,7 @@ Awesome Amateur Radio Resources and Links.
 - [hdsdr](http://hdsdr.de/)
 - [kiwisdr](http://kiwisdr.com/)
 - [OpenWebRX](https://www.openwebrx.de/)
+- [Receiver Book](https://www.receiverbook.de/)
 - [WebSDR](http://www.websdr.org/)
 
 # shopping
