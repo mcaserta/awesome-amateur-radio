@@ -58,6 +58,9 @@ Awesome Amateur Radio Resources and Links.
 
 # contest
 
+- 2021
+  - [Italian Activity Contest](http://www.ari.it/contest-vhf-up/iac/regolamento.html)
+  - [58° Trofeo ARI 2021 VHF/UHF & Microwave](http://ari.it/contest-vhf-up/trofei-ari/6609.html)
 - 2021-11-04: [Planet DIGIRADIO 2021](http://www.rdrclub.ru/dni-aktivnosti-rtsrk/391-4-november-planet-digiradio)
 
 # cw
