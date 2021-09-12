@@ -248,6 +248,7 @@ Although these shops are listed by country, they might provide world wide shippi
   - [Mascar](http://www.mascar.com/)
   - [Mediaglobe](https://www.mediaglobe.it/)
   - [MHz Radio Store](https://www.megahertzradiostore.it/)
+  - [MPX Elettronica](http://www.mpxelettronica.com/)
   - [Paoletti Ferrero](https://paolettiradiocomunicazioni.it/)
   - [Radio Line](http://www.radio-line.it)
   - [Radio System](http://www.radiosystem.it)
