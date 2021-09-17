@@ -250,6 +250,7 @@ Although these shops are listed by country, they might provide world wide shippi
   - [MHz Radio Store](https://www.megahertzradiostore.it/)
   - [MPX Elettronica](http://www.mpxelettronica.com/)
   - [Paoletti Ferrero](https://paolettiradiocomunicazioni.it/)
+  - [Radio Assistance](https://www.radioassistance.com)
   - [Radio Line](http://www.radio-line.it)
   - [Radio System](http://www.radiosystem.it)
   - [S&M Radio Usato Shop Roma](https://www.smradiousatoshoproma.it/)
