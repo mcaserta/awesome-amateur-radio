@@ -269,5 +269,6 @@ Although these shops are listed by country, they might provide world wide shippi
   - [Ham Radio Outlet](https://www.hamradio.com/)
   - [Kits and Parts](https://kitsandparts.com/)
   - [MFJ](https://mfjenterprises.com/)
+  - [Radio Daze](https://www.radiodaze.com/)
   - [RFSpace](http://www.rfspace.com/)
   - [West Mountain Radio](http://www.westmountainradio.com/)
