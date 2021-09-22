@@ -15,6 +15,7 @@ Awesome Amateur Radio Resources and Links.
 - [Carolina Windom 160 Special](http://radioworks.com/ccw160spec.html)
 - [Comet HFJ-350M](https://www.ebay.it/itm/274802851806)
 - [Cushcraft](https://mfjenterprises.com/collections/cushcraft)
+- [D-Original OUT-250B](https://www.mediaglobe.it/index.php?route=product/product&product_id=6971)
 - [Eco ATX 1080](https://www.hamradioshop.it/eco-antenne-atx-1080-antenna-hf-multibanda-trasportabile-dai-80m-a-2m-per-l-ft-817-ft-818-kx3-x5105-g90-p-11365.html)
 - [Eco Magitenna 80-6m](https://www.amazon.it/dp/B07NKH6ZCQ)
 - [The End Fed Half Wave Antenna](http://gnarc.org/wp-content/uploads/The-End-Fed-Half-Wave-Antenna.pdf)
