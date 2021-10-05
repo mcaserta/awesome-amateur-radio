@@ -193,7 +193,7 @@ Awesome Amateur Radio Resources and Links.
   - [IC 7400](https://icomuk.co.uk/ic-7400-hf-50mhz-144mhz-base-station-transceiver/4081/1267/104/), [manual](manuals/icom-ic-7400.pdf)
   - [IC 7600](https://www.icomamerica.com/en/products/amateur/hf/7600/default.aspx), [manual](manuals/icom-ic-7600.pdf)
   - [IC 7610](https://www.icomeurope.com/en/product/ic-7610/), [manual](manuals/icom-ic-7610.pdf)
-  - [IC 9700](https://www.icomeurope.com/en/product/ic-9700/), [manual](manuals/icom-ic-9700.pdf)
+  - [IC 9700](https://www.icomeurope.com/en/product/ic-9700/), [manual](manuals/icom-ic-9700.pdf), [sats](assets/icom-ic-9700-sat-freqs.csv)
 - Kenwood
   - [TR-751/851](https://www.universal-radio.com/catalog/hammulti/tr751a.html), [manual](manuals/kenwood-tr-751-851.pdf)
 - Standard
