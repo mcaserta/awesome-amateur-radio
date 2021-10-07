@@ -170,7 +170,9 @@ Awesome Amateur Radio Resources and Links.
 
 - [DX Info Centre](https://www.dxinfocentre.com/)
 - [DX Maps](https://www.dxmaps.com/)
+- [Fast Track to Understanding Ham Radio Propagation](https://www.amazon.com/dp/B07MYNK1GL)
 - [HF Propagation](https://www.voacap.com/)
+- [Introduction to HF Radio Propagation](https://www.sws.bom.gov.au/Educational/5/2/2)
 - [MUF](https://prop.kc2g.com/)
 - [Reverse Beacon Network](http://www.reversebeacon.net/)
 - [Solar Terrestrial Data](http://www.hamqsl.com/solarvhf.php)
