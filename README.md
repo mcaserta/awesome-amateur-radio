@@ -243,6 +243,8 @@ Although these shops are listed by country, they might provide world wide shippi
 - France 🇫🇷
   - [Passion Radio](https://www.passion-radio.com/)
   - [XBS Telecom](https://www.xbstelecom.eu/)
+- Germany 🇩🇪
+  - [Wimo](https://www.wimo.com/) 
 - Italy 🇮🇹
   - [CSY & Son](https://www.csyeson.it/)
   - [DAE](http://www.dae.it/)
