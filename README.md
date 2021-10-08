@@ -117,6 +117,7 @@ Awesome Amateur Radio Resources and Links.
 - [Contest Calendar](https://www.contestcalendar.com/)
 - [HFlink](http://hflink.com/)
 - [DX Zone](https://www.dxzone.com/)
+- [Everything You Need to Know About USB and Serial Interfaces](https://www.kkn.net/~n6tv/N6TV_Dayton_2019_Everything_USB.pdf)
 - [G5RV Biography](http://www.astrosurf.com/luxorion/Radio/g5rv-biography-mercury.pdf)
 - [GMRS: Basic Radio Communications](https://www.k0nr.com/wordpress/2021/07/use-gmrs/)
 - [Guide to RFI, Ferrites, Baluns, and Audio Interfacing](http://audiosystemsgroup.com/RFI-Ham.pdf)
