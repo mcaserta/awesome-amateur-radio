@@ -252,6 +252,7 @@ Although these shops are listed by country, they might provide world wide shippi
   - [CSY & Son](https://www.csyeson.it/)
   - [DAE](http://www.dae.it/)
   - [Ham Radio Shop](https://www.hamradioshop.it/)
+  - [Hardsoft Products](https://www.hspshop.it/)
   - [IW0FVT](https://romaradiofvt.com/)
   - [Mascar](http://www.mascar.com/)
   - [Mediaglobe](https://www.mediaglobe.it/)
