@@ -26,6 +26,7 @@ Awesome Amateur Radio Resources and Links.
 - [I0JXX](https://www.i0jxx.com/)
 - [IW2EN Extreme Vertical](https://www.iw2en.com/ant-verticale-extreme/)
 - [J-Pole Calculator](https://m0ukd.com/calculators/slim-jim-and-j-pole-calculator/)
+- [K6STI low-noise receiving antenna for 80 and 160 meters](https://www.robkalmeijer.nl/techniek/electronica/radiotechniek/hambladen/qst/1995/09/page37/)
 - [MFJ-1622](https://mfjenterprises.com/products/mfj-1622)
 - [MFJ-2286](https://mfjenterprises.com/products/mfj-2286)
 - [Moxon](http://moxonantennaproject.net/)
