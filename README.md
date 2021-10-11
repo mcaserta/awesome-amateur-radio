@@ -134,6 +134,7 @@ Awesome Amateur Radio Resources and Links.
 - [RepeaterBook](https://www.repeaterbook.com/)
 - [Sherwood Engineering Receiver Test Data](http://www.sherweng.com/table.html)
 - [Signal Identification Guide](https://www.sigidwiki.com/wiki/Signal_Identification_Guide)
+- [TRUE BLUE DXers CLUB](https://www.tbdxc.net/)
 - [VHF Communications Magazine](http://www.vhfcomm.co.uk/)
 
 ## Italy
