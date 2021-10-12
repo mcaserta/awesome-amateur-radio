@@ -264,9 +264,11 @@ Although these shops are listed by country, they might provide world wide shippi
   - [MPX Elettronica](http://www.mpxelettronica.com/)
   - [Paoletti Ferrero](https://paolettiradiocomunicazioni.it/)
   - [Radio Assistance](https://www.radioassistance.com)
+  - [Radio Elettronica](https://www.radioelettronica.it/)
   - [Radio Frequenza Shop](https://www.radiofrequenzashop.com/)
   - [Radio Line](http://www.radio-line.it)
   - [Radio System](http://www.radiosystem.it)
+  - [Radio Surplus](https://radiosurplus.biz/)
   - [S&M Radio Usato Shop Roma](https://www.smradiousatoshoproma.it/)
   - [SMTechnology](https://www.smtechnology.it/)
 - Spain 🇪🇸
