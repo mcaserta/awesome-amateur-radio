@@ -258,6 +258,7 @@ Although these shops are listed by country, they might provide world wide shippi
   - [Ham Radio Shop](https://www.hamradioshop.it/)
   - [Hardsoft Products](https://www.hspshop.it/)
   - [IW0FVT](https://romaradiofvt.com/)
+  - [Lab ME](https://www.labme.store/)
   - [Mascar](http://www.mascar.com/)
   - [Mediaglobe](https://www.mediaglobe.it/)
   - [MHz Radio Store](https://www.megahertzradiostore.it/)
