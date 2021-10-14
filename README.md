@@ -223,14 +223,21 @@ Awesome Amateur Radio Resources and Links.
 # satellite
 
 - [AMSAT](https://www.amsat.org/)
+- [Getting Started with Amateur Satellites](https://www.amsat.org/product/2020-edition-of-getting-started-with-amateur-satellites-digital-download/)
 - [Live Satellite Status](https://www.amsat.org/status/)
+- [SatNOGS DB](https://db.satnogs.org/)
+- [Station and Operating Hints](https://www.amsat.org/station-and-operating-hints/)
+
+## birds
+
 - [AO-109](https://www.amsat.org/ao-109-radfxsat-2-amsat-fox-1e-open-for-amateur-use/)
 - [ISS](https://www.ariss.org/contact-the-iss.html)
 - [QO-100](https://m0lte.uk/index.php/2019/07/17/qo-100-eshail-2-probably-your-best-ever-dx/)
-- [SatNOGS DB](https://db.satnogs.org/)
+
 
 # sdr
 
+- [DragonOS](https://cemaxecuter.com/)
 - [hdsdr](http://hdsdr.de/)
 - [kiwisdr](http://kiwisdr.com/)
 - [OpenWebRX](https://www.openwebrx.de/)
