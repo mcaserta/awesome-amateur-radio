@@ -262,6 +262,7 @@ Although these shops are listed by country, they might provide world wide shippi
   - [Carlo Bianconi](http://www.carlobianconi.com) 
   - [CSY & Son](https://www.csyeson.it/)
   - [DAE](http://www.dae.it/)
+  - [FLQ Elettronica](https://www.flqelettronica.it/)
   - [Ham Radio Shop](https://www.hamradioshop.it/)
   - [Hardsoft Products](https://www.hspshop.it/)
   - [IW0FVT](https://romaradiofvt.com/)
