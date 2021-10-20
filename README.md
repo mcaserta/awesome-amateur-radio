@@ -57,6 +57,7 @@ Awesome Amateur Radio Resources and Links.
 - [Band Plan Radio Rivista](http://www.ari.it/images/stories/hf/dar2-16pagg62-65.pdf)
 - [IARU Region 1 - HF Band Plan](https://www.iaru-r1.org/wp-content/uploads/2021/06/hf_r1_bandplan.pdf)
 - [IARU Region 1 - VHF Band Plan](https://www.iaru-r1.org/wp-content/uploads/2020/12/VHF-Bandplan.pdf)
+- [US Band Plan](assets/US_AMBandPlan_2017.pdf)
 
 # contest
 
