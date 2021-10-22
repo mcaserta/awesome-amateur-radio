@@ -287,6 +287,7 @@ Although these shops are listed by country, they might provide world wide shippi
 - Sweden 🇸🇪
   - [PileupDX](https://pileupdx.com/)
 - UK 🇬🇧
+  - [Martin Lynch & Sons](https://www.hamradio.co.uk)
   - [Radio World](https://www.radioworld.co.uk/)
   - [SOTAbeams](https://www.sotabeams.co.uk/)
   - [Waters and Stanton](https://hamradiostore.co.uk/)
