@@ -31,6 +31,7 @@ Awesome Amateur Radio Resources and Links.
 - [MFJ-2286](https://mfjenterprises.com/products/mfj-2286)
 - [Momobeam](https://momobeam.eu/)
 - [Moxon](http://moxonantennaproject.net/)
+- [Spiderbeam](https://www.spiderbeam.com/)
 - [Squid pole verticals](http://perite.vk7jj.com/vk7jj/squidpoles.html)
 - [Tecsun AN200 auto sintonizzabile Mediumwave MW Loop Antenna DESKTOP Portable](https://www.amazon.it/dp/B00BI9WMQM)
 - [TXYFYP MLA-30 Loop](https://www.amazon.it/dp/B083DY2BJS)
