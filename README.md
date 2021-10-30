@@ -262,7 +262,8 @@ Although these shops are listed by country, they might provide world wide shippi
 - Germany 🇩🇪
   - [Wimo](https://www.wimo.com/) 
 - Italy 🇮🇹
-  - [Antenna Hub](https://antennahub.it/) 
+  - [Antenna Hub](https://antennahub.it/)
+  - [Bertoncelli](https://www.bertoncellisas.it/)
   - [Carlo Bianconi](http://www.carlobianconi.com) 
   - [CSY & Son](https://www.csyeson.it/)
   - [DAE](http://www.dae.it/)
