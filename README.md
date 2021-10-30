@@ -286,6 +286,7 @@ Although these shops are listed by country, they might provide world wide shippi
   - [Radio Surplus](https://radiosurplus.biz/)
   - [S&M Radio Usato Shop Roma](https://www.smradiousatoshoproma.it/)
   - [SMTechnology](https://www.smtechnology.it/)
+  - [Technology Shop](https://www.technologyshop.it)
 - Spain 🇪🇸
   - [QRP Ham Radio Kits](https://www.qrphamradiokits.com/)
 - Sweden 🇸🇪
