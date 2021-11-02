@@ -97,6 +97,7 @@ Awesome Amateur Radio Resources and Links.
 - [PSK Reporter](https://pskreporter.info/)
 - [Q65 Quick Start](https://physics.princeton.edu/pulsar/k1jt/Q65_Quick_Start.pdf)
 - [QTSoundModem](https://www.cantab.net/users/john.wiseman/Documents/QtSoundModem.html)
+- [SmsGte](https://smsgte.org/)
 - [Sound Card Packet](https://www.soundcardpacket.org/)
 - [WSJT-X](https://physics.princeton.edu/pulsar/k1jt/wsjtx.html)
 - [WSJT-X User Guide](https://physics.princeton.edu/pulsar/k1jt/wsjtx-doc/wsjtx-main-2.4.0.html)
