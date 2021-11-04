@@ -214,7 +214,7 @@ Awesome Amateur Radio Resources and Links.
   - [FT 991A](https://www.yaesu.com/indexVS.cfm?cmd=DisplayProducts&ProdCatID=102%20%20%20%20%20%20%20%20%20&encProdID=490C4A71118AD0F4E825E89D821B73BB&DivisionID=65&isArchived=0),
       [manual](manuals/yaesu-ft-991a.pdf)
   - [FT DX 10](https://www.yaesu.com/indexVS.cfm?cmd=DisplayProducts&ProdCatID=102%20%20%20%20%20%20%20%20%20&encProdID=1ABBC23C7EC57175A35CB0FDE7A639A0&DivisionID=65&isArchived=0),
-      [manual](manuals/yaesu-ftdx10.pdf)
+      [manual](manuals/yaesu-ftdx10.pdf), [tech manual](manuals/yaesu-ftdx10-tech.pdf)
   - [FT DX 101D](https://www.yaesu.com/indexVS.cfm?cmd=DisplayProducts&ProdCatID=102&encProdID=959169DE998192AB87295E90077D740D&DivisionID=65&isArchived=0),
       [manual](manuals/yaesu-ftdx101mp-d.pdf)
   - [FT DX 101MP](https://www.yaesu.com/indexVS.cfm?cmd=DisplayProducts&ProdCatID=102&encProdID=BA2F414449407A4D3D23461143F88429&DivisionID=65&isArchived=0),
