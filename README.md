@@ -137,6 +137,7 @@ Awesome Amateur Radio Resources and Links.
 - [Radio Museum](https://www.radiomuseum.org/?language_id=2)
 - [RepeaterBook](https://www.repeaterbook.com/)
 - [Sherwood Engineering Receiver Test Data](http://www.sherweng.com/table.html)
+- [Short Wave Radio Frequencies](https://www.short-wave.info/)
 - [Signal Identification Guide](https://www.sigidwiki.com/wiki/Signal_Identification_Guide)
 - [TRUE BLUE DXers CLUB](https://www.tbdxc.net/)
 - [VHF Communications Magazine](http://www.vhfcomm.co.uk/)
