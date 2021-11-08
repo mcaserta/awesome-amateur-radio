@@ -275,6 +275,7 @@ Although these shops are listed by country, they might provide world wide shippi
   - [FLQ Elettronica](https://www.flqelettronica.it/)
   - [Ham Radio Shop](https://www.hamradioshop.it/)
   - [Hardsoft Products](https://www.hspshop.it/)
+  - [I. L. Elettronica](http://www.ilelettronica.it/)
   - [IW0FVT](https://romaradiofvt.com/)
   - [Lab ME](https://www.labme.store/)
   - [Mascar](http://www.mascar.com/)
