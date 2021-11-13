@@ -304,6 +304,7 @@ Although these shops are listed by country, they might provide world wide shippi
 - USA 🇺🇸
   - [DX Engineering](https://www.dxengineering.com/)
   - [Gigaparts](https://www.gigaparts.com/)
+  - [Ham Made Parts](https://hammadeparts.com/)
   - [Ham Radio Outlet](https://www.hamradio.com/)
   - [Kits and Parts](https://kitsandparts.com/)
   - [MFJ](https://mfjenterprises.com/)
