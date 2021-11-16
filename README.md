@@ -260,6 +260,8 @@ Although these shops are listed by country, they might provide world wide shippi
   - [MiniKits](https://www.minikits.com.au)
   - [TTS Systems](https://www.ttssystems.com.au/) A good source of Amidon toroids / beads
   - [Strictly Ham](https://www.strictlyham.com.au)
+- Canada 🇨🇦
+  - [Radio World](https://www.radioworld.ca/)
 - France 🇫🇷
   - [Passion Radio](https://www.passion-radio.com/)
   - [XBS Telecom](https://www.xbstelecom.eu/)
