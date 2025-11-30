@@ -1,5 +1,10 @@
 # Awesome Amateur Radio 📻
 
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![License](https://img.shields.io/github/license/mcaserta/awesome-amateur-radio)](LICENSE)
+[![GitHub Stars](https://img.shields.io/github/stars/mcaserta/awesome-amateur-radio)](https://github.com/mcaserta/awesome-amateur-radio/stargazers)
+[![Check Links](https://github.com/mcaserta/awesome-amateur-radio/workflows/Check%20Links/badge.svg)](https://github.com/mcaserta/awesome-amateur-radio/actions)
+
 A curated collection of awesome amateur radio resources, links and tools.
 
 > Tip: Look for a specific subpage below or browse the complete list of links organized by category.
