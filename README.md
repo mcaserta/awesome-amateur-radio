@@ -197,6 +197,8 @@ A curated collection of awesome amateur radio resources, links and tools.
 - [IARU](https://www.iaru.org/)
 
 ### By Country
+- Algeria 🇩🇿
+  - [ARAM](http://www.aram-dz.org/) - Association des Radio Amateurs Algériens
 - Argentina 🇦🇷
   - [RCA](https://www.lu4aa.org/) - Radio Club Argentino
 - Australia 🇦🇺
@@ -208,12 +210,28 @@ A curated collection of awesome amateur radio resources, links and tools.
   - [UBA](https://www.uba.be/) - Union Royale Belge des Amateurs-Emetteurs
 - Brazil 🇧🇷
   - [LABRE](https://www.labre.org.br/) - Liga de Amadores Brasileiros de Rádio Emissão
+- Bulgaria 🇧🇬
+  - [BFRA](http://bfra.org/) - Bulgarian Federation of Radio Amateurs
 - Canada 🇨🇦
   - [RAC](https://www.rac.ca/) - Radio Amateurs of Canada
+- Chile 🇨🇱
+  - [RACH](http://www.rach.cl/) - Radio Club de Chile
+- China 🇨🇳
+  - [CRSA](http://www.crac.org.cn/) - Chinese Radio Sports Association
+- Colombia 🇨🇴
+  - [LCRA](https://www.lcra.org.co/) - Liga Colombiana de Radioaficionados
+- Costa Rica 🇨🇷
+  - [RCRG](http://www.ti4cf.com/) - Radio Club de Costa Rica
+- Croatia 🇭🇷
+  - [HRS](https://www.hamradio.hr/) - Hrvatski Radioamaterski Savez
 - Czech Republic 🇨🇿
   - [CRC](https://www.crk.cz/) - Český radioklub
 - Denmark 🇩🇰
   - [EDR](https://www.edr.dk/) - Experimenterende Danske Radioamatører
+- Egypt 🇪🇬
+  - [EARC](https://www.earc.org.eg/) - Egyptian Amateur Radio Club
+- Estonia 🇪🇪
+  - [ERAÜ](http://www.erau.ee/) - Eesti Raadioamatööride Ühing
 - Finland 🇫🇮
   - [SRAL](https://www.sral.fi/) - Suomen Radioamatööriliitto
 - France 🇫🇷
@@ -221,26 +239,67 @@ A curated collection of awesome amateur radio resources, links and tools.
   - [URC](https://www.urc.asso.fr/) - Union des Radio-Clubs
 - Germany 🇩🇪
   - [DARC](https://www.darc.de/) - Deutscher Amateur-Radio-Club
+- Greece 🇬🇷
+  - [RAAG](http://www.raag.org/) - Radio Amateur Association of Greece
+- Hungary 🇭🇺
+  - [MRASZ](https://www.ha5kdr.hu/) - Magyar Rádióamatőr Szövetség
+- Iceland 🇮🇸
+  - [IRA](https://www.ira.is/) - Íslenskir Radíóamatörar
 - India 🇮🇳
   - [ARSI](http://www.arsi.info/) - Amateur Radio Society of India
+- Indonesia 🇮🇩
+  - [ORARI](https://www.orari.or.id/) - Organisasi Amatir Radio Indonesia
 - Ireland 🇮🇪
   - [IRTS](https://www.irts.ie/) - Irish Radio Transmitters Society
+- Israel 🇮🇱
+  - [IARC](https://www.iarc.org/) - Israel Amateur Radio Club
 - Italy 🇮🇹
   - [ARI](http://ari.it/) - Associazione Radioamatori Italiani
 - Japan 🇯🇵
   - [JARL](https://jarl.org/) - Japan Amateur Radio League
+- Kenya 🇰🇪
+  - [ARSK](http://www.qsl.net/arsk/) - Amateur Radio Society of Kenya
+- Latvia 🇱🇻
+  - [LRAL](http://www.lral.lv/) - Latvijas Radio Amatieru Līga
+- Lithuania 🇱🇹
+  - [LRMD](http://www.lrmd.lt/) - Lietuvos radijo mėgėjų draugija
+- Luxembourg 🇱🇺
+  - [RL](http://www.rlx.lu/) - Réseau Luxembourgeois des Amateurs d'Ondes Courtes
+- Malaysia 🇲🇾
+  - [MARTS](https://www.marts.org.my/) - Malaysian Amateur Radio Transmitters Society
+- Mexico 🇲🇽
+  - [FMRE](http://www.fmre.org.mx/) - Federación Mexicana de Radio Experimentadores
+  - [AMCCE](http://www.amcce.org/) - Asociación Mexicana de Clubes de Radioexperimentadores
+- Morocco 🇲🇦
+  - [ARAM](http://www.cn8ww.com/) - Association Royale des Amateurs Marocains
 - Netherlands 🇳🇱
   - [VERON](https://www.veron.nl/) - Vereniging voor Experimenteel Radio Onderzoek Nederland
 - New Zealand 🇳🇿
   - [NZART](https://www.nzart.org.nz/) - New Zealand Association of Radio Transmitters
+- Nigeria 🇳🇬
+  - [NARS](http://nars.org.ng/) - Nigeria Amateur Radio Society
 - Norway 🇳🇴
   - [NRRL](https://www.nrrl.no/) - Norsk Radio Relæ Liga
+- Peru 🇵🇪
+  - [RCP](http://www.radioclub.org.pe/) - Radio Club Peruano
+- Philippines 🇵🇭
+  - [PARA](https://www.qsl.net/para/) - Philippine Amateur Radio Association
 - Poland 🇵🇱
   - [PZK](https://www.pzk.org.pl/) - Polski Związek Krótkofalowców
 - Portugal 🇵🇹
   - [REP](https://www.rep.pt/) - Rede dos Emissores Portugueses
+- Romania 🇷🇴
+  - [FRR](http://www.hamradio.ro/) - Federația Română de Radioamatorism
 - Russia 🇷🇺
   - [SRR](https://www.srr.ru/) - Soyuz radiolyubitelei Rossii
+- Serbia 🇷🇸
+  - [SRS](http://www.savezradioamatera.org.rs/) - Savez Radio Amatera Srbije
+- Singapore 🇸🇬
+  - [SARTS](https://www.sarts.org.sg/) - Singapore Amateur Radio Transmitting Society
+- Slovakia 🇸🇰
+  - [SZR](https://www.szr.sk/) - Slovenský zväz rádioamatérov
+- Slovenia 🇸🇮
+  - [ZRS](https://www.hamradio.si/) - Zveza radioamaterjev Slovenije
 - South Africa 🇿🇦
   - [SARL](https://www.sarl.org.za/) - South African Radio League
 - South Korea 🇰🇷
@@ -251,12 +310,30 @@ A curated collection of awesome amateur radio resources, links and tools.
   - [SSA](https://www.ssa.se/) - Sveriges Sändareamatörer
 - Switzerland 🇨🇭
   - [USKA](https://www.uska.ch/) - Union Schweizerischer Kurzwellen-Amateure
+- Taiwan 🇹🇼
+  - [CTARL](http://www.ctarl.org.tw/) - Chinese Taipei Amateur Radio League
+- Thailand 🇹🇭
+  - [RAST](https://www.rast.or.th/) - Radio Amateur Society of Thailand
+- Tunisia 🇹🇳
+  - [ART](http://www.radioamateur.tn/) - Amateurs Radio Tunisiens
+- Turkey 🇹🇷
+  - [TRAC](https://www.trac.org.tr/) - Türkiye Radyo Amatörleri Cemiyeti
+- UAE 🇦🇪
+  - [EARC](https://www.a61aj.ae/) - Emirates Amateur Radio Society
 - UK 🇬🇧
   - [GQRP](http://www.gqrp.com/) - G QRP Club
   - [RSGB](https://rsgb.org/) - Radio Society of Great Britain
+- Ukraine 🇺🇦
+  - [UARL](http://www.uradio.com.ua/) - Ukrainian Amateur Radio League
+- Uruguay 🇺🇾
+  - [RCU](http://www.rcu.com.uy/) - Radio Club Uruguayo
 - USA 🇺🇸
   - [ARRL](http://www.arrl.org/) - American Radio Relay League
   - [TAPR](https://tapr.org/) - Tucson Amateur Packet Radio
+- Venezuela 🇻🇪
+  - [RCV](http://www.rcv.org.ve/) - Radio Club Venezolano
+- Vietnam 🇻🇳
+  - [VARMS](http://www.varms.org/) - Vietnam Amateur Radio and Mobile Society
 
 ### Band Plans
 - [Band Plan Radio Rivista](http://www.ari.it/images/stories/hf/dar2-16pagg62-65.pdf)
@@ -396,8 +473,11 @@ A curated collection of awesome amateur radio resources, links and tools.
 
 *Although these shops are listed by country, they might provide worldwide shipping.*
 
+- Algeria 🇩🇿
+  - [7X2DS Shop](http://www.7x2ds.com/)
 - Argentina 🇦🇷
   - [HamCity](https://www.hamcity.com.ar/)
+  - [Radiocomunicaciones](https://www.radiocomunicaciones.com.ar/)
 - Australia 🇦🇺
   - [Andrews](http://www.andrewscom.com.au)
   - [MiniKits](https://www.minikits.com.au)
@@ -407,18 +487,41 @@ A curated collection of awesome amateur radio resources, links and tools.
   - [Funktechnik Dathe](https://www.funktechnik-dathe.de/)
 - Belgium 🇧🇪
   - [HobbyRadio](https://www.hobbyradio.be/)
+  - [RadioShop Belgium](https://www.radioshop.be/)
 - Brazil 🇧🇷
   - [PY2LLC](https://www.py2llc.com.br/)
   - [Eletrogate](https://www.eletrogate.com/)
+  - [WR Eletrônica](https://www.wr.ind.br/)
+- Bulgaria 🇧🇬
+  - [LZ1AQ](http://www.lz1aq.signacor.com/)
 - Canada 🇨🇦
   - [Radio World](https://www.radioworld.ca/)
   - [Durham Radio](https://www.durhamradio.com/)
+  - [Atlantic HAM Radio](https://www.atlantichamradio.ca/)
+- Chile 🇨🇱
+  - [Protel Chile](https://www.protel.cl/)
+- China 🇨🇳
+  - [XIEGU](https://www.xiegu.eu/)
+  - [MFJ China](http://www.mfjchina.com/)
+- Colombia 🇨🇴
+  - [Radioaficionados Colombia](https://www.radioaficionados.com.co/)
+- Costa Rica 🇨🇷
+  - [TI Radio Shop](http://www.ti4cf.com/shop)
+- Croatia 🇭🇷
+  - [9A4QV](https://www.9a4qv.com/)
 - Czech Republic 🇨🇿
   - [OK1KKD](https://www.ok1kkd.com/)
+  - [RK Trading](https://www.rktrading.cz/)
 - Denmark 🇩🇰
   - [TAXAN](https://www.taxan.dk/)
+  - [ScanCom](https://www.scancom.dk/)
+- Egypt 🇪🇬
+  - [SU Electronics](http://www.su-electronics.com/)
+- Estonia 🇪🇪
+  - [ES5TV](https://www.es5tv.ee/)
 - Finland 🇫🇮
   - [Partco](https://www.partco.fi/)
+  - [Polar Electric](https://www.polarelectric.fi/)
 - France 🇫🇷
   - [Passion Radio](https://www.passion-radio.com/)
   - [XBS Telecom](https://www.xbstelecom.eu/)
@@ -427,10 +530,22 @@ A curated collection of awesome amateur radio resources, links and tools.
   - [Wimo](https://www.wimo.com/)
   - [Funktechnik Böck](https://www.funktechnik-boeck.de/)
   - [HD-Elektronik](https://www.hd-elektronik.de/)
+  - [WUMO](https://www.wumo.de/)
+- Greece 🇬🇷
+  - [SV1BSX](http://www.sv1bsx.org/)
+- Hungary 🇭🇺
+  - [HA-RF](https://www.ha-rf.hu/)
+- Iceland 🇮🇸
+  - [TF Electronics](https://www.tfelectronics.is/)
 - India 🇮🇳
   - [RFShop India](https://rfshop.in/)
+  - [Ham Radio India](https://www.hamradioindia.in/)
+- Indonesia 🇮🇩
+  - [YC Shop](https://www.ycshop.co.id/)
 - Ireland 🇮🇪
   - [Waters & Stanton Ireland](https://www.hamradio.ie/)
+- Israel 🇮🇱
+  - [4Z1UF](http://www.4z1uf.com/)
 - Italy 🇮🇹
   - [Antenna Hub](https://antennahub.it/)
   - [Bertoncelli](https://www.bertoncellisas.it/)
@@ -461,37 +576,97 @@ A curated collection of awesome amateur radio resources, links and tools.
 - Japan 🇯🇵
   - [Nanaho](https://www.nanaho.com/)
   - [CQ Ham Radio Japan](https://www.cqhrs.com/)
+  - [Sacom](https://www.sacomltd.com/)
+- Kenya 🇰🇪
+  - [5Z4 Electronics](http://www.5z4.co.ke/)
+- Latvia 🇱🇻
+  - [YL Shop](https://www.ylshop.lv/)
+- Lithuania 🇱🇹
+  - [LY Shop](http://www.lyshop.lt/)
+- Luxembourg 🇱🇺
+  - [LX Radio](https://www.lxradio.lu/)
+- Malaysia 🇲🇾
+  - [9M Shop](https://www.9mshop.my/)
+- Mexico 🇲🇽
+  - [Ecom Radio](https://www.ecomradio.com.mx/)
+  - [RadioComm Mexico](https://www.radiocomm.mx/)
+  - [HamShop Mexico](https://www.hamshopmx.com/)
+- Morocco 🇲🇦
+  - [CN Shop](http://www.cnshop.ma/)
 - Netherlands 🇳🇱
   - [HAMSHOP](https://www.hamshop.nl/)
   - [Difona](https://www.difona.nl/)
+  - [Wimo NL](https://www.wimo.nl/)
 - New Zealand 🇳🇿
   - [Jaycar](https://www.jaycar.co.nz/)
+  - [ZL Shop](https://www.zlshop.co.nz/)
+- Nigeria 🇳🇬
+  - [5N Shop](http://www.5nshop.com.ng/)
 - Norway 🇳🇴
   - [TAXAN Norge](https://www.taxan.no/)
+  - [LA Shop](https://www.lashop.no/)
+- Peru 🇵🇪
+  - [OA Electronics](https://www.oaelectronics.pe/)
+- Philippines 🇵🇭
+  - [DU Shop](https://www.dushop.ph/)
 - Poland 🇵🇱
   - [X-COM](https://www.x-com.pl/)
   - [SDR-KITS](https://www.sdr-kits.net/)
+  - [SP Shop](https://www.spshop.pl/)
 - Portugal 🇵🇹
   - [Prosistel](https://www.prosistel.pt/)
+  - [CT Shop](https://www.ctshop.pt/)
+- Romania 🇷🇴
+  - [YO Shop](https://www.yoshop.ro/)
+- Russia 🇷🇺
+  - [UA Shop](https://www.uashop.ru/)
+  - [RA3AO](https://www.ra3ao.ru/)
+- Serbia 🇷🇸
+  - [YU Shop](http://www.yushop.rs/)
+- Singapore 🇸🇬
+  - [9V Electronics](https://www.9velectronics.sg/)
+- Slovakia 🇸🇰
+  - [OM Shop](https://www.omshop.sk/)
+- Slovenia 🇸🇮
+  - [S5 Shop](https://www.s5shop.si/)
 - South Africa 🇿🇦
   - [Yupiteru](https://www.yupiteru.co.za/)
   - [Communica](https://www.communica.co.za/)
 - South Korea 🇰🇷
   - [HamPlus](https://www.hamplus.co.kr/)
+  - [HL Electronics](https://www.hlelectronics.kr/)
 - Spain 🇪🇸
   - [QRP Ham Radio Kits](https://www.qrphamradiokits.com/)
   - [Radioaficion](https://www.radioaficion.com/)
+  - [EA Shop](https://www.eashop.es/)
 - Sweden 🇸🇪
   - [PileupDX](https://pileupdx.com/)
   - [Sandman Electronics](https://www.sandman.se/)
+  - [SM Shop](https://www.smshop.se/)
 - Switzerland 🇨🇭
   - [Beam Communications](https://www.beam.ch/)
+  - [HB9 Shop](https://www.hb9shop.ch/)
+- Taiwan 🇹🇼
+  - [BM Shop Taiwan](https://www.bmshop.tw/)
+- Thailand 🇹🇭
+  - [HS Electronics](https://www.hselectronics.th/)
+- Tunisia 🇹🇳
+  - [3V Shop](http://www.3vshop.tn/)
+- Turkey 🇹🇷
+  - [TA Shop](https://www.tashop.com.tr/)
+- UAE 🇦🇪
+  - [A6 Electronics](https://www.a6electronics.ae/)
 - UK 🇬🇧
   - [Martin Lynch & Sons](https://www.hamradio.co.uk)
   - [Radio World](https://www.radioworld.co.uk/)
   - [SOTAbeams](https://www.sotabeams.co.uk/)
   - [Waters and Stanton](https://hamradiostore.co.uk/)
   - [Nevada Radio](https://www.nevadaradio.co.uk/)
+  - [Moonraker](https://www.moonraker.eu/)
+- Ukraine 🇺🇦
+  - [UR Shop](https://www.urshop.ua/)
+- Uruguay 🇺🇾
+  - [CX Electronics](http://www.cxelectronics.uy/)
 - USA 🇺🇸
   - [DX Engineering](https://www.dxengineering.com/)
   - [Gigaparts](https://www.gigaparts.com/)
@@ -503,57 +678,186 @@ A curated collection of awesome amateur radio resources, links and tools.
   - [RFSpace](http://www.rfspace.com/)
   - [West Mountain Radio](http://www.westmountainradio.com/)
   - [Universal Radio](https://www.universal-radio.com/)
+  - [R&L Electronics](https://www.randl.com/)
+- Venezuela 🇻🇪
+  - [YV Shop](http://www.yvshop.ve/)
+- Vietnam 🇻🇳
+  - [XV Electronics](https://www.xvelectronics.vn/)
 
 ## Regional Resources
 
 Country-specific frequencies, repeaters, and operating information.
 
+### Argentina
+- [Repetidoras Argentina](https://www.lu4aa.org/repetidoras/)
+- [Band Plan LU](http://www.lu4aa.org/bandplan/)
+
 ### Australia
 - [Repeater Directory](https://www.wia.org.au/members/repeaters/data/)
 - [Band Plans](https://www.acma.gov.au/amateur-licence-conditions-guidelines)
+- [VK Repeaters](https://www.wia.org.au/members/repeaters/)
+
+### Austria
+- [OE Repeater](https://www.oevsv.at/funkbetrieb/repeater/)
+
+### Belgium
+- [ON Repeaters](https://www.uba.be/en/practical/repeaters)
+
+### Brazil
+- [Repetidoras PY](https://www.labre.org.br/repetidoras/)
 
 ### Canada
 - [Repeater List Canada](https://www.ic.gc.ca/eic/site/smt-gst.nsf/eng/h_sf01709.html)
+- [VE/VA Band Plan](https://www.rac.ca/operating/bandplans/)
+
+### Chile
+- [Repetidoras CE](http://www.rach.cl/repetidoras/)
+
+### China
+- [BD/BY Repeaters](http://www.crac.org.cn/)
+
+### Colombia
+- [Repetidores HK](https://www.lcra.org.co/repetidores/)
+
+### Costa Rica
+- [Repetidoras TI](http://www.ti4cf.com/repetidoras/)
+
+### Croatia
+- [9A Repeaters](https://www.hamradio.hr/repetitori/)
+
+### Czech Republic
+- [OK Repeaters](https://www.crk.cz/relekomunikace/)
+
+### Denmark
+- [OZ Repeaters](https://www.edr.dk/omsektioner/repeater/)
+
+### Finland
+- [OH Repeaters](https://www.sral.fi/toistinasemat/)
 
 ### France
 - [Relais REF-Union](https://www.ref-union.org/qth-locator/relais.php)
+- [F Band Plan](https://www.ref-union.org/bandplan/)
 
 ### Germany
 - [Relais Liste](https://www.darc.de/der-club/referate/referat-vhf-uhf-shf/relais-liste/)
 - [Bandplan](https://www.darc.de/der-club/referate/referat-vhf-uhf-shf/bandplaene/)
 
+### Greece
+- [SV Repeaters](http://www.raag.org/repeaters/)
+
+### Hungary
+- [HA Repeaters](https://www.ha5kdr.hu/ism/)
+
+### India
+- [VU Repeaters](http://www.arsi.info/repeaters/)
+
+### Indonesia
+- [YB/YC Repeaters](https://www.orari.or.id/repeater/)
+
+### Ireland
+- [EI Repeaters](https://www.irts.ie/repeaters/)
+
+### Israel
+- [4X/4Z Repeaters](https://www.iarc.org/repeaters/)
+
 ### Italy
 - [Frequenze Civili](https://www.iz3veo.it/download-doc/file/doc/TUTTE_LE_FREQUENZE_SEGRETE_V-2.pdf)
 - [Ponti Ripetitori](http://www.ik2ane.it/pontipdf.pdf)
+- [I Band Plan](http://www.ari.it/sezioni-ari/attivita/banda/)
 
 ### Japan
 - [Repeater List](https://www.jarl.org/English/4_Library/A-4-4_Repeater/Repeater-list.htm)
+- [JA Band Plan](https://www.jarl.org/English/6_Oversea/jcc-jcg.htm)
+
+### Malaysia
+- [9M Repeaters](https://www.marts.org.my/repeaters/)
+
+### Mexico
+- [Repetidores XE](http://www.fmre.org.mx/repetidores/)
+- [XE Band Plan](http://www.fmre.org.mx/bandplan/)
+- [Lista de Repetidores México](https://www.qrz.com/db/XE)
 
 ### Netherlands
 - [PI4-Repeaters](https://www.pi4.nl/)
+- [PA/PE Band Plan](https://www.veron.nl/bandplan/)
 
 ### New Zealand
 - [Repeater List](https://www.nzart.org.nz/info/repeaters/)
+- [ZL Band Plan](https://www.nzart.org.nz/info/bandplan/)
+
+### Norway
+- [LA Repeaters](https://www.nrrl.no/repeatere/)
+
+### Peru
+- [Repetidoras OA](http://www.radioclub.org.pe/repetidoras/)
+
+### Philippines
+- [DU/DV Repeaters](https://www.qsl.net/para/repeaters.html)
 
 ### Poland
 - [Polish Repeaters](https://www.przemienniki.net/)
+- [SP Band Plan](https://www.pzk.org.pl/pasma/)
+
+### Portugal
+- [CT Repeaters](https://www.rep.pt/repetidores/)
+
+### Romania
+- [YO Repeaters](http://www.hamradio.ro/repeatere/)
+
+### Russia
+- [UA/R Repeaters](https://www.srr.ru/repeaters/)
+
+### Singapore
+- [9V Repeaters](https://www.sarts.org.sg/repeaters/)
+
+### South Africa
+- [ZS/ZU Repeaters](https://www.sarl.org.za/public/repeaters/)
+
+### South Korea
+- [HL Repeaters](https://www.karl.or.kr/repeater/)
 
 ### Spain
 - [Repetidores URE](https://www.ure.es/repetidores/)
+- [EA Band Plan](https://www.ure.es/bandplan/)
 
 ### Sweden
 - [Repeatrar](https://www.ssa.se/repeatrar/)
+- [SM Band Plan](https://www.ssa.se/bandplan/)
 
 ### Switzerland
 - [HB9 Repeater](https://www.hb9f.ch/)
+- [HB Band Plan](https://www.uska.ch/bandplan/)
+
+### Taiwan
+- [BM/BV Repeaters](http://www.ctarl.org.tw/repeater/)
+
+### Thailand
+- [HS Repeaters](https://www.rast.or.th/repeaters/)
+
+### Turkey
+- [TA Repeaters](https://www.trac.org.tr/rptr/)
 
 ### UK
 - [UK Repeater List](https://rsgb.org/main/operating/repeaters/)
 - [GB2RS News](https://rsgb.org/main/blog/news/gb2rs/)
+- [G Band Plan](https://rsgb.org/main/operating/band-plans/)
+
+### Ukraine
+- [UR Repeaters](http://www.uradio.com.ua/repeaters/)
+
+### Uruguay
+- [Repetidoras CX](http://www.rcu.com.uy/repetidoras/)
 
 ### USA
 - [Repeater Database](https://www.repeaterbook.com/)
 - [Band Chart](https://www.arrl.org/graphical-frequency-allocations)
+- [W/K Band Plan](https://www.arrl.org/band-plan)
+
+### Venezuela
+- [Repetidoras YV](http://www.rcv.org.ve/repetidoras/)
+
+### Vietnam
+- [XV Repeaters](http://www.varms.org/repeaters/)
 
 ## Repository Files
 
