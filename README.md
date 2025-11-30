@@ -197,25 +197,66 @@ A curated collection of awesome amateur radio resources, links and tools.
 - [IARU](https://www.iaru.org/)
 
 ### By Country
+- Argentina 🇦🇷
+  - [RCA](https://www.lu4aa.org/) - Radio Club Argentino
 - Australia 🇦🇺
-  - [WIA](https://www.wia.org.au)
-  - [RASA](https://vkradioamateurs.org)
+  - [WIA](https://www.wia.org.au) - Wireless Institute of Australia
+  - [RASA](https://vkradioamateurs.org) - Radio Amateurs Society of Australia
+- Austria 🇦🇹
+  - [ÖVSV](https://www.oevsv.at/) - Österreichischer Versuchssenderverband
+- Belgium 🇧🇪
+  - [UBA](https://www.uba.be/) - Union Royale Belge des Amateurs-Emetteurs
+- Brazil 🇧🇷
+  - [LABRE](https://www.labre.org.br/) - Liga de Amadores Brasileiros de Rádio Emissão
 - Canada 🇨🇦
-  - [RAC](https://www.rac.ca/)
+  - [RAC](https://www.rac.ca/) - Radio Amateurs of Canada
+- Czech Republic 🇨🇿
+  - [CRC](https://www.crk.cz/) - Český radioklub
+- Denmark 🇩🇰
+  - [EDR](https://www.edr.dk/) - Experimenterende Danske Radioamatører
+- Finland 🇫🇮
+  - [SRAL](https://www.sral.fi/) - Suomen Radioamatööriliitto
+- France 🇫🇷
+  - [REF](https://www.ref-union.org/) - Réseau des Émetteurs Français
+  - [URC](https://www.urc.asso.fr/) - Union des Radio-Clubs
 - Germany 🇩🇪
-  - [DARC](https://www.darc.de/)
+  - [DARC](https://www.darc.de/) - Deutscher Amateur-Radio-Club
+- India 🇮🇳
+  - [ARSI](http://www.arsi.info/) - Amateur Radio Society of India
+- Ireland 🇮🇪
+  - [IRTS](https://www.irts.ie/) - Irish Radio Transmitters Society
 - Italy 🇮🇹
-  - [ARI](http://ari.it/)
+  - [ARI](http://ari.it/) - Associazione Radioamatori Italiani
 - Japan 🇯🇵
-  - [JARL](https://jarl.org/)
+  - [JARL](https://jarl.org/) - Japan Amateur Radio League
+- Netherlands 🇳🇱
+  - [VERON](https://www.veron.nl/) - Vereniging voor Experimenteel Radio Onderzoek Nederland
 - New Zealand 🇳🇿
-  - [NZART](https://www.nzart.org.nz/)
+  - [NZART](https://www.nzart.org.nz/) - New Zealand Association of Radio Transmitters
+- Norway 🇳🇴
+  - [NRRL](https://www.nrrl.no/) - Norsk Radio Relæ Liga
+- Poland 🇵🇱
+  - [PZK](https://www.pzk.org.pl/) - Polski Związek Krótkofalowców
+- Portugal 🇵🇹
+  - [REP](https://www.rep.pt/) - Rede dos Emissores Portugueses
+- Russia 🇷🇺
+  - [SRR](https://www.srr.ru/) - Soyuz radiolyubitelei Rossii
+- South Africa 🇿🇦
+  - [SARL](https://www.sarl.org.za/) - South African Radio League
+- South Korea 🇰🇷
+  - [KARL](https://www.karl.or.kr/) - Korean Amateur Radio League
+- Spain 🇪🇸
+  - [URE](https://www.ure.es/) - Unión de Radioaficionados Españoles
+- Sweden 🇸🇪
+  - [SSA](https://www.ssa.se/) - Sveriges Sändareamatörer
+- Switzerland 🇨🇭
+  - [USKA](https://www.uska.ch/) - Union Schweizerischer Kurzwellen-Amateure
 - UK 🇬🇧
-  - [GQRP](http://www.gqrp.com/)
-  - [RSGB](https://rsgb.org/)
+  - [GQRP](http://www.gqrp.com/) - G QRP Club
+  - [RSGB](https://rsgb.org/) - Radio Society of Great Britain
 - USA 🇺🇸
-  - [ARRL](http://www.arrl.org/)
-  - [TAPR](https://tapr.org/)
+  - [ARRL](http://www.arrl.org/) - American Radio Relay League
+  - [TAPR](https://tapr.org/) - Tucson Amateur Packet Radio
 
 ### Band Plans
 - [Band Plan Radio Rivista](http://www.ari.it/images/stories/hf/dar2-16pagg62-65.pdf)
@@ -355,18 +396,41 @@ A curated collection of awesome amateur radio resources, links and tools.
 
 *Although these shops are listed by country, they might provide worldwide shipping.*
 
+- Argentina 🇦🇷
+  - [HamCity](https://www.hamcity.com.ar/)
 - Australia 🇦🇺
   - [Andrews](http://www.andrewscom.com.au)
   - [MiniKits](https://www.minikits.com.au)
   - [TTS Systems](https://www.ttssystems.com.au/) - A good source of Amidon toroids / beads
   - [Strictly Ham](https://www.strictlyham.com.au)
+- Austria 🇦🇹
+  - [Funktechnik Dathe](https://www.funktechnik-dathe.de/)
+- Belgium 🇧🇪
+  - [HobbyRadio](https://www.hobbyradio.be/)
+- Brazil 🇧🇷
+  - [PY2LLC](https://www.py2llc.com.br/)
+  - [Eletrogate](https://www.eletrogate.com/)
 - Canada 🇨🇦
   - [Radio World](https://www.radioworld.ca/)
+  - [Durham Radio](https://www.durhamradio.com/)
+- Czech Republic 🇨🇿
+  - [OK1KKD](https://www.ok1kkd.com/)
+- Denmark 🇩🇰
+  - [TAXAN](https://www.taxan.dk/)
+- Finland 🇫🇮
+  - [Partco](https://www.partco.fi/)
 - France 🇫🇷
   - [Passion Radio](https://www.passion-radio.com/)
   - [XBS Telecom](https://www.xbstelecom.eu/)
+  - [RadioShop](https://www.radioshop.fr/)
 - Germany 🇩🇪
   - [Wimo](https://www.wimo.com/)
+  - [Funktechnik Böck](https://www.funktechnik-boeck.de/)
+  - [HD-Elektronik](https://www.hd-elektronik.de/)
+- India 🇮🇳
+  - [RFShop India](https://rfshop.in/)
+- Ireland 🇮🇪
+  - [Waters & Stanton Ireland](https://www.hamradio.ie/)
 - Italy 🇮🇹
   - [Antenna Hub](https://antennahub.it/)
   - [Bertoncelli](https://www.bertoncellisas.it/)
@@ -394,15 +458,40 @@ A curated collection of awesome amateur radio resources, links and tools.
   - [S&M Radio Usato Shop Roma](https://www.smradiousatoshoproma.it/)
   - [SMTechnology](https://www.smtechnology.it/)
   - [Technology Shop](https://www.technologyshop.it)
+- Japan 🇯🇵
+  - [Nanaho](https://www.nanaho.com/)
+  - [CQ Ham Radio Japan](https://www.cqhrs.com/)
+- Netherlands 🇳🇱
+  - [HAMSHOP](https://www.hamshop.nl/)
+  - [Difona](https://www.difona.nl/)
+- New Zealand 🇳🇿
+  - [Jaycar](https://www.jaycar.co.nz/)
+- Norway 🇳🇴
+  - [TAXAN Norge](https://www.taxan.no/)
+- Poland 🇵🇱
+  - [X-COM](https://www.x-com.pl/)
+  - [SDR-KITS](https://www.sdr-kits.net/)
+- Portugal 🇵🇹
+  - [Prosistel](https://www.prosistel.pt/)
+- South Africa 🇿🇦
+  - [Yupiteru](https://www.yupiteru.co.za/)
+  - [Communica](https://www.communica.co.za/)
+- South Korea 🇰🇷
+  - [HamPlus](https://www.hamplus.co.kr/)
 - Spain 🇪🇸
   - [QRP Ham Radio Kits](https://www.qrphamradiokits.com/)
+  - [Radioaficion](https://www.radioaficion.com/)
 - Sweden 🇸🇪
   - [PileupDX](https://pileupdx.com/)
+  - [Sandman Electronics](https://www.sandman.se/)
+- Switzerland 🇨🇭
+  - [Beam Communications](https://www.beam.ch/)
 - UK 🇬🇧
   - [Martin Lynch & Sons](https://www.hamradio.co.uk)
   - [Radio World](https://www.radioworld.co.uk/)
   - [SOTAbeams](https://www.sotabeams.co.uk/)
   - [Waters and Stanton](https://hamradiostore.co.uk/)
+  - [Nevada Radio](https://www.nevadaradio.co.uk/)
 - USA 🇺🇸
   - [DX Engineering](https://www.dxengineering.com/)
   - [Gigaparts](https://www.gigaparts.com/)
@@ -413,12 +502,58 @@ A curated collection of awesome amateur radio resources, links and tools.
   - [Radio Daze](https://www.radiodaze.com/)
   - [RFSpace](http://www.rfspace.com/)
   - [West Mountain Radio](http://www.westmountainradio.com/)
+  - [Universal Radio](https://www.universal-radio.com/)
 
 ## Regional Resources
 
+Country-specific frequencies, repeaters, and operating information.
+
+### Australia
+- [Repeater Directory](https://www.wia.org.au/members/repeaters/data/)
+- [Band Plans](https://www.acma.gov.au/amateur-licence-conditions-guidelines)
+
+### Canada
+- [Repeater List Canada](https://www.ic.gc.ca/eic/site/smt-gst.nsf/eng/h_sf01709.html)
+
+### France
+- [Relais REF-Union](https://www.ref-union.org/qth-locator/relais.php)
+
+### Germany
+- [Relais Liste](https://www.darc.de/der-club/referate/referat-vhf-uhf-shf/relais-liste/)
+- [Bandplan](https://www.darc.de/der-club/referate/referat-vhf-uhf-shf/bandplaene/)
+
 ### Italy
 - [Frequenze Civili](https://www.iz3veo.it/download-doc/file/doc/TUTTE_LE_FREQUENZE_SEGRETE_V-2.pdf)
-- [Ponti](http://www.ik2ane.it/pontipdf.pdf)
+- [Ponti Ripetitori](http://www.ik2ane.it/pontipdf.pdf)
+
+### Japan
+- [Repeater List](https://www.jarl.org/English/4_Library/A-4-4_Repeater/Repeater-list.htm)
+
+### Netherlands
+- [PI4-Repeaters](https://www.pi4.nl/)
+
+### New Zealand
+- [Repeater List](https://www.nzart.org.nz/info/repeaters/)
+
+### Poland
+- [Polish Repeaters](https://www.przemienniki.net/)
+
+### Spain
+- [Repetidores URE](https://www.ure.es/repetidores/)
+
+### Sweden
+- [Repeatrar](https://www.ssa.se/repeatrar/)
+
+### Switzerland
+- [HB9 Repeater](https://www.hb9f.ch/)
+
+### UK
+- [UK Repeater List](https://rsgb.org/main/operating/repeaters/)
+- [GB2RS News](https://rsgb.org/main/blog/news/gb2rs/)
+
+### USA
+- [Repeater Database](https://www.repeaterbook.com/)
+- [Band Chart](https://www.arrl.org/graphical-frequency-allocations)
 
 ## Repository Files
 

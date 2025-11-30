@@ -8,18 +8,59 @@ National and international amateur radio organizations, regulatory bodies, and b
 
 ## Organizations by Country
 
+### Argentina 🇦🇷
+
+- [RCA](https://www.lu4aa.org/) - Radio Club Argentino
+
 ### Australia 🇦🇺
 
 - [WIA](https://www.wia.org.au) - Wireless Institute of Australia
 - [RASA](https://vkradioamateurs.org) - Radio Amateurs Society of Australia
 
+### Austria 🇦🇹
+
+- [ÖVSV](https://www.oevsv.at/) - Österreichischer Versuchssenderverband
+
+### Belgium 🇧🇪
+
+- [UBA](https://www.uba.be/) - Union Royale Belge des Amateurs-Emetteurs
+
+### Brazil 🇧🇷
+
+- [LABRE](https://www.labre.org.br/) - Liga de Amadores Brasileiros de Rádio Emissão
+
 ### Canada 🇨🇦
 
 - [RAC](https://www.rac.ca/) - Radio Amateurs of Canada
 
+### Czech Republic 🇨🇿
+
+- [CRC](https://www.crk.cz/) - Český radioklub
+
+### Denmark 🇩🇰
+
+- [EDR](https://www.edr.dk/) - Experimenterende Danske Radioamatører
+
+### Finland 🇫🇮
+
+- [SRAL](https://www.sral.fi/) - Suomen Radioamatööriliitto
+
+### France 🇫🇷
+
+- [REF](https://www.ref-union.org/) - Réseau des Émetteurs Français
+- [URC](https://www.urc.asso.fr/) - Union des Radio-Clubs
+
 ### Germany 🇩🇪
 
 - [DARC](https://www.darc.de/) - Deutscher Amateur-Radio-Club
+
+### India 🇮🇳
+
+- [ARSI](http://www.arsi.info/) - Amateur Radio Society of India
+
+### Ireland 🇮🇪
+
+- [IRTS](https://www.irts.ie/) - Irish Radio Transmitters Society
 
 ### Italy 🇮🇹
 
@@ -29,9 +70,49 @@ National and international amateur radio organizations, regulatory bodies, and b
 
 - [JARL](https://jarl.org/) - Japan Amateur Radio League
 
+### Netherlands 🇳🇱
+
+- [VERON](https://www.veron.nl/) - Vereniging voor Experimenteel Radio Onderzoek Nederland
+
 ### New Zealand 🇳🇿
 
 - [NZART](https://www.nzart.org.nz/) - New Zealand Association of Radio Transmitters
+
+### Norway 🇳🇴
+
+- [NRRL](https://www.nrrl.no/) - Norsk Radio Relæ Liga
+
+### Poland 🇵🇱
+
+- [PZK](https://www.pzk.org.pl/) - Polski Związek Krótkofalowców
+
+### Portugal 🇵🇹
+
+- [REP](https://www.rep.pt/) - Rede dos Emissores Portugueses
+
+### Russia 🇷🇺
+
+- [SRR](https://www.srr.ru/) - Soyuz radiolyubitelei Rossii
+
+### South Africa 🇿🇦
+
+- [SARL](https://www.sarl.org.za/) - South African Radio League
+
+### South Korea 🇰🇷
+
+- [KARL](https://www.karl.or.kr/) - Korean Amateur Radio League
+
+### Spain 🇪🇸
+
+- [URE](https://www.ure.es/) - Unión de Radioaficionados Españoles
+
+### Sweden 🇸🇪
+
+- [SSA](https://www.ssa.se/) - Sveriges Sändareamatörer
+
+### Switzerland 🇨🇭
+
+- [USKA](https://www.uska.ch/) - Union Schweizerischer Kurzwellen-Amateure
 
 ### United Kingdom 🇬🇧
 
