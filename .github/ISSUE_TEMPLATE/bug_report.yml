@@ -1,0 +1,44 @@
+name: Bug Report
+description: Report a broken link or technical issue
+title: "[Bug]: "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to report an issue!
+
+  - type: dropdown
+    id: issue-type
+    attributes:
+      label: Issue Type
+      description: What kind of issue are you reporting?
+      options:
+        - Broken link
+        - Incorrect information
+        - Formatting issue
+        - Other
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Please describe the issue in detail
+      placeholder: Tell us what you found...
+    validations:
+      required: true
+
+  - type: input
+    id: link
+    attributes:
+      label: Link or Section
+      description: If reporting a broken link or incorrect information, please provide the URL or section name
+      placeholder: https://example.com or "Digital Modes section"
+
+  - type: textarea
+    id: additional-context
+    attributes:
+      label: Additional Context
+      description: Add any other context about the problem here

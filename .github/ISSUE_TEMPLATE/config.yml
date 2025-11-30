@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: General Discussion
+    url: https://github.com/mcaserta/awesome-amateur-radio/discussions
+    about: For general questions or discussions about amateur radio

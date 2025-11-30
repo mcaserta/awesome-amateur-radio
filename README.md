@@ -227,37 +227,37 @@ A curated collection of awesome amateur radio resources, links and tools.
 > For digital mode software (FT8, WSJT-X, etc.), see the [Digital Modes](#digital-modes) section.
 
 ### SDR Software
-- [DragonOS](https://cemaxecuter.com/)
-- [hdsdr](http://hdsdr.de/)
-- [OpenWebRX](https://www.openwebrx.de/)
+- [DragonOS](https://cemaxecuter.com/) - Linux-based SDR operating system (Linux, free)
+- [hdsdr](http://hdsdr.de/) - Software defined radio application (Windows, free)
+- [OpenWebRX](https://www.openwebrx.de/) - Multi-user SDR receiver (Linux, free)
 
 ### CW Software
 - [Morse Runner](http://dxatlas.com/MorseRunner/)
 - [Seiuchy](https://seiuchy.macache.com/)
 
 ### Logging Software
-- [ADIF Master](https://www.adifmaster.com/) - ADIF log file editor and converter
-- [CloudLog](https://www.cloudlog.co.uk/) - Web-based logging application
-- [DXKeeper](http://www.dxlabsuite.com/dxkeeper/) - Part of DXLab Suite
-- [Ham Radio Deluxe](https://www.hamradiodeluxe.com/) - Comprehensive logging and rig control
-- [Log4OM](https://www.log4om.com/) - Free logging and rig control software
-- [N1MM Logger+](https://n1mmwp.hamdocs.com/) - Contest logging software
-- [N3FJP Amateur Contact Log](https://www.n3fjp.com/) - Comprehensive logging suite
-- [QLog](https://github.com/foldynl/QLog) - Open source logging application for Linux/Windows/macOS
-- [Xlog](http://www.nongnu.org/xlog/) - Logging program for Linux/Unix
+- [ADIF Master](https://www.adifmaster.com/) - ADIF log file editor and converter (Windows, paid)
+- [CloudLog](https://www.cloudlog.co.uk/) - Web-based logging application (self-hosted, free)
+- [DXKeeper](http://www.dxlabsuite.com/dxkeeper/) - Part of DXLab Suite (Windows, free)
+- [Ham Radio Deluxe](https://www.hamradiodeluxe.com/) - Comprehensive logging and rig control (Windows/Mac, paid)
+- [Log4OM](https://www.log4om.com/) - Free logging and rig control software (Windows, free)
+- [N1MM Logger+](https://n1mmwp.hamdocs.com/) - Contest logging software (Windows, free)
+- [N3FJP Amateur Contact Log](https://www.n3fjp.com/) - Comprehensive logging suite (Windows, paid/demo)
+- [QLog](https://github.com/foldynl/QLog) - Open source logging application (Linux/Windows/macOS, free)
+- [Xlog](http://www.nongnu.org/xlog/) - Logging program (Linux/Unix, free)
 
 ### Antenna Modeling Software
-- [4nec2](https://www.qsl.net/4nec2/) - NEC2 based antenna modeler and optimizer
-- [EZNEC](https://www.eznec.com/) - Professional antenna modeling software
-- [MMANA-GAL](http://gal-ana.de/basicmm/en/) - Free antenna analysis software
-- [NEC2](https://www.nec2.org/) - Numerical Electromagnetics Code
+- [4nec2](https://www.qsl.net/4nec2/) - NEC2 based antenna modeler and optimizer (Windows, free)
+- [EZNEC](https://www.eznec.com/) - Professional antenna modeling software (Windows, paid)
+- [MMANA-GAL](http://gal-ana.de/basicmm/en/) - Free antenna analysis software (Windows, free)
+- [NEC2](https://www.nec2.org/) - Numerical Electromagnetics Code (Linux/Unix, free)
 
 ### APRS and Position Tracking
-- [APRS.fi](https://aprs.fi/) - Real-time APRS tracking and mapping
-- [APRSdroid](https://aprsdroid.org/) - Android APRS client
-- [Direwolf](https://github.com/wb2osz/direwolf) - Software TNC for packet radio and APRS
-- [PinPoint APRS](https://www.pinpointaprs.com/) - Windows APRS application
-- [Xastir](https://xastir.org/) - Open source APRS client
+- [APRS.fi](https://aprs.fi/) - Real-time APRS tracking and mapping (web-based, free)
+- [APRSdroid](https://aprsdroid.org/) - Android APRS client (Android, free)
+- [Direwolf](https://github.com/wb2osz/direwolf) - Software TNC for packet radio and APRS (Linux/Windows/macOS, free)
+- [PinPoint APRS](https://www.pinpointaprs.com/) - Windows APRS application (Windows, paid)
+- [Xastir](https://xastir.org/) - Open source APRS client (Linux/Unix/macOS, free)
 
 ## Emergency Communications
 
@@ -269,9 +269,9 @@ A curated collection of awesome amateur radio resources, links and tools.
 - [Winlink](https://winlink.org/) - Worldwide radio email system
 
 ### Winlink Resources
-- [Pat](https://getpat.io/) - Cross-platform Winlink client
-- [RMS Express](https://winlink.org/RMSExpress) - Windows Winlink client
-- [Winlink Web](https://winlink.org/content/how_use_winlink_web) - Browser-based Winlink access
+- [Pat](https://getpat.io/) - Cross-platform Winlink client (Linux/Windows/macOS, free)
+- [RMS Express](https://winlink.org/RMSExpress) - Windows Winlink client (Windows, free)
+- [Winlink Web](https://winlink.org/content/how_use_winlink_web) - Browser-based Winlink access (web-based, free)
 
 ## Learning and Training
 
@@ -281,11 +281,11 @@ A curated collection of awesome amateur radio resources, links and tools.
 - [KB6NU's Ham Radio Study Guides](https://www.kb6nu.com/study-guides/) - Free study guides for US licenses
 
 ### License Exam Preparation
-- [AA9PW FCC Exam Practice](https://www.aa9pw.com/) - Online practice exams
-- [HamExam.org](https://hamexam.org/) - Free practice exams for US licenses
-- [HamStudy.org](https://hamstudy.org/) - Interactive study tools and practice exams
+- [AA9PW FCC Exam Practice](https://www.aa9pw.com/) - Online practice exams (free)
+- [HamExam.org](https://hamexam.org/) - Free practice exams for US licenses (free)
+- [HamStudy.org](https://hamstudy.org/) - Interactive study tools and practice exams (free)
 - [HamTestOnline](https://www.hamtestonline.com/) - Comprehensive online courses (paid)
-- [QRZ Practice Exams](https://www.qrz.com/hamtest/) - Free practice tests
+- [QRZ Practice Exams](https://www.qrz.com/hamtest/) - Free practice tests (free)
 
 ### General Resources
 

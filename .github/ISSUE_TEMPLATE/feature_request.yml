@@ -1,0 +1,60 @@
+name: Feature Request
+description: Suggest a new resource or section
+title: "[Feature]: "
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping improve Awesome Amateur Radio!
+
+  - type: dropdown
+    id: request-type
+    attributes:
+      label: Request Type
+      description: What would you like to add?
+      options:
+        - New resource/link
+        - New section
+        - Enhancement to existing content
+        - Other
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Describe what you'd like to add or change
+      placeholder: Please provide details about the resource or section...
+    validations:
+      required: true
+
+  - type: input
+    id: url
+    attributes:
+      label: URL (if applicable)
+      description: If suggesting a new resource, provide the URL
+      placeholder: https://example.com
+
+  - type: textarea
+    id: value
+    attributes:
+      label: Why is this valuable?
+      description: Explain why this would be a good addition to the list
+      placeholder: This resource would help operators because...
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: Pre-submission Checklist
+      description: Please confirm the following
+      options:
+        - label: I have searched existing issues to ensure this isn't a duplicate
+          required: true
+        - label: This resource is relevant to amateur radio
+          required: true
+        - label: This resource is actively maintained (for software/services)
+          required: true
