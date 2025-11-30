@@ -21,6 +21,7 @@ Comprehensive guide to amateur radio transceivers, interfaces, and accessories o
 
 ### Kenwood
 - [TR-751/851](https://www.universal-radio.com/catalog/hammulti/tr751a.html) | [manual](manuals/kenwood-tr-751-851.pdf)
+- [TS-590SG](https://www.kenwood.com/usa/com/amateur/ts-590sg/) | [manual](manuals/kenwood-ts-590sg.pdf)
 
 ### Standard
 - [C5608](http://www.rigpix.com/standard/c5608d.htm) | [manual](manuals/standard-c5608.pdf)

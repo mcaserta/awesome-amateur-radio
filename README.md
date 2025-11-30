@@ -18,8 +18,10 @@ A curated collection of awesome amateur radio resources, links and tools.
 *   **[Satellites](#satellites)** - Tracking, operation and specific satellites.
 *   **[SDR](#sdr)** - Software, hardware and WebSDRs.
 *   **[Organizations and Regulation](#organizations-and-regulation)** - National and international leagues.
-*   **[Software](#software)** - Applications for logging, control and planning.
-*   **[Learning and Training](#learning-and-training)** - Resources for beginners and advanced operators.
+*   **[Software](#software)** - Logging, APRS, antenna modeling, digital modes and more.
+*   **[Emergency Communications](#emergency-communications)** - ARES, RACES, Winlink and emergency services.
+*   **[Learning and Training](#learning-and-training)** - Getting started, exam prep and educational resources.
+*   **[Media and Community](#media-and-community)** - YouTube channels, podcasts and online communities.
 *   **[Shopping](#shopping)** - Equipment stores by country.
 *   **[Regional Resources](#regional-resources)** - Country-specific information.
 
@@ -104,6 +106,7 @@ A curated collection of awesome amateur radio resources, links and tools.
 
 #### Kenwood
 - [TR-751/851](https://www.universal-radio.com/catalog/hammulti/tr751a.html), [manual](manuals/kenwood-tr-751-851.pdf)
+- [TS-590SG](https://www.kenwood.com/usa/com/amateur/ts-590sg/), [manual](manuals/kenwood-ts-590sg.pdf)
 
 #### Standard
 - [C5608](http://www.rigpix.com/standard/c5608d.htm), [manual](manuals/standard-c5608.pdf)
@@ -221,11 +224,7 @@ A curated collection of awesome amateur radio resources, links and tools.
 
 ## Software
 
-### Digital Mode Software
-- [Gridtracker](https://gridtracker.org/grid-tracker/)
-- [JTDX](https://www.jtdx.tech/en/)
-- [WSJT-X](https://physics.princeton.edu/pulsar/k1jt/wsjtx.html)
-- [WSPRnet](http://wsprnet.org/)
+> For digital mode software (FT8, WSJT-X, etc.), see the [Digital Modes](#digital-modes) section.
 
 ### SDR Software
 - [DragonOS](https://cemaxecuter.com/)
@@ -236,7 +235,59 @@ A curated collection of awesome amateur radio resources, links and tools.
 - [Morse Runner](http://dxatlas.com/MorseRunner/)
 - [Seiuchy](https://seiuchy.macache.com/)
 
+### Logging Software
+- [ADIF Master](https://www.adifmaster.com/) - ADIF log file editor and converter
+- [CloudLog](https://www.cloudlog.co.uk/) - Web-based logging application
+- [DXKeeper](http://www.dxlabsuite.com/dxkeeper/) - Part of DXLab Suite
+- [Ham Radio Deluxe](https://www.hamradiodeluxe.com/) - Comprehensive logging and rig control
+- [Log4OM](https://www.log4om.com/) - Free logging and rig control software
+- [N1MM Logger+](https://n1mmwp.hamdocs.com/) - Contest logging software
+- [N3FJP Amateur Contact Log](https://www.n3fjp.com/) - Comprehensive logging suite
+- [QLog](https://github.com/foldynl/QLog) - Open source logging application for Linux/Windows/macOS
+- [Xlog](http://www.nongnu.org/xlog/) - Logging program for Linux/Unix
+
+### Antenna Modeling Software
+- [4nec2](https://www.qsl.net/4nec2/) - NEC2 based antenna modeler and optimizer
+- [EZNEC](https://www.eznec.com/) - Professional antenna modeling software
+- [MMANA-GAL](http://gal-ana.de/basicmm/en/) - Free antenna analysis software
+- [NEC2](https://www.nec2.org/) - Numerical Electromagnetics Code
+
+### APRS and Position Tracking
+- [APRS.fi](https://aprs.fi/) - Real-time APRS tracking and mapping
+- [APRSdroid](https://aprsdroid.org/) - Android APRS client
+- [Direwolf](https://github.com/wb2osz/direwolf) - Software TNC for packet radio and APRS
+- [PinPoint APRS](https://www.pinpointaprs.com/) - Windows APRS application
+- [Xastir](https://xastir.org/) - Open source APRS client
+
+## Emergency Communications
+
+### Emergency and Public Service
+- [ARES](http://www.arrl.org/ares) - Amateur Radio Emergency Service (ARRL)
+- [EmComm](https://www.arrl.org/emergency-communications) - ARRL Emergency Communications
+- [RACES](http://www.usraces.org/) - Radio Amateur Civil Emergency Service
+- [Skywarn](https://www.weather.gov/skywarn/) - National Weather Service storm spotter program
+- [Winlink](https://winlink.org/) - Worldwide radio email system
+
+### Winlink Resources
+- [Pat](https://getpat.io/) - Cross-platform Winlink client
+- [RMS Express](https://winlink.org/RMSExpress) - Windows Winlink client
+- [Winlink Web](https://winlink.org/content/how_use_winlink_web) - Browser-based Winlink access
+
 ## Learning and Training
+
+### Getting Started
+- [ARRL Getting Started](http://www.arrl.org/getting-started) - Beginner's guide from ARRL
+- [Ham Radio School](https://hamradioschool.com/) - Educational resources for new hams
+- [KB6NU's Ham Radio Study Guides](https://www.kb6nu.com/study-guides/) - Free study guides for US licenses
+
+### License Exam Preparation
+- [AA9PW FCC Exam Practice](https://www.aa9pw.com/) - Online practice exams
+- [HamExam.org](https://hamexam.org/) - Free practice exams for US licenses
+- [HamStudy.org](https://hamstudy.org/) - Interactive study tools and practice exams
+- [HamTestOnline](https://www.hamtestonline.com/) - Comprehensive online courses (paid)
+- [QRZ Practice Exams](https://www.qrz.com/hamtest/) - Free practice tests
+
+### General Resources
 
 - [425 DX News](https://www.425dxn.org/)
 - [Choke Cookbook](http://k9yc.com/2018Cookbook.pdf)
@@ -256,7 +307,6 @@ A curated collection of awesome amateur radio resources, links and tools.
 - [Meteorological Radiosondes Database](https://radiosondy.info/)
 - [Q Code](https://en.wikipedia.org/wiki/Q_code)
 - [QRZ](https://www.qrz.com/)
-- [r/amateurradio](https://www.reddit.com/r/amateurradio/)
 - [Radio Museum](https://www.radiomuseum.org/?language_id=2)
 - [RepeaterBook](https://www.repeaterbook.com/)
 - [Sherwood Engineering Receiver Test Data](http://www.sherweng.com/table.html)
@@ -264,6 +314,30 @@ A curated collection of awesome amateur radio resources, links and tools.
 - [Signal Identification Guide](https://www.sigidwiki.com/wiki/Signal_Identification_Guide)
 - [TRUE BLUE DXers CLUB](https://www.tbdxc.net/)
 - [VHF Communications Magazine](http://www.vhfcomm.co.uk/)
+
+## Media and Community
+
+### YouTube Channels
+- [Ham Radio Crash Course](https://www.youtube.com/@HamRadioCrashCourse) - Beginner-friendly tutorials and projects
+- [Ham Radio 2.0](https://www.youtube.com/@HamRadio2) - Digital modes and modern ham radio
+- [K8MRD Ham Radio](https://www.youtube.com/@K8MRD) - HF operations and equipment reviews
+- [KB9VBR Antennas](https://www.youtube.com/@KB9VBRAntennas) - Antenna building and testing
+- [KM4ACK](https://www.youtube.com/@KM4ACK) - Raspberry Pi and portable operations
+- [OH8STN](https://www.youtube.com/@OH8STN) - Portable and off-grid communications
+- [The Antenna Man](https://www.youtube.com/@TheAntennaMan) - Antenna reviews and comparisons
+
+### Podcasts
+- [Ham Radio 360](https://www.hamradio360.com/) - Weekly podcast network
+- [Ham Radio Workbench](https://www.hamradioworkbench.com/) - Technical discussions and projects
+- [ICQ Podcast](https://www.icqpodcast.com/) - General amateur radio topics
+- [Linux in the Ham Shack](https://lhspodcast.info/) - Linux and open source for ham radio
+- [QSO Today](https://www.qsotoday.com/) - Interviews with interesting hams
+
+### Online Communities
+- [r/amateurradio](https://www.reddit.com/r/amateurradio/) - Reddit amateur radio community
+- [r/RTLSDR](https://www.reddit.com/r/RTLSDR/) - Software Defined Radio on Reddit
+- [QRZ Forums](https://forums.qrz.com/) - Active discussion forums
+- [eHam.net](https://www.eham.net/) - Equipment reviews and forums
 
 ## Contesting
 
