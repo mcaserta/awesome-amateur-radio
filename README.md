@@ -422,8 +422,8 @@ A curated collection of awesome amateur radio resources, links and tools.
 
 ## Repository Files
 
-*   [`/assets/`](./assets/) - Diagrams, images and other media files.
-*   [`/manuals/`](./manuals/) - Equipment manuals (when publicly available).
+-   [`/assets/`](./assets/) - Diagrams, images and other media files.
+-   [`/manuals/`](./manuals/) - Equipment manuals (when publicly available).
 
 ## How to Contribute
 
