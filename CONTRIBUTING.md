@@ -108,6 +108,6 @@ If you're unsure about anything:
 - Check the [awesome-list manifesto](https://github.com/sindresorhus/awesome/blob/main/awesome.md) for general guidelines
 - Review existing entries for formatting examples
 
-## Thank You!
+## Thank You
 
 Your contributions help make this resource valuable for the entire amateur radio community. 73!
