@@ -1,9 +1,26 @@
-# Awesome Amateur Radio
+# Awesome Amateur Radio 📻
 
-Awesome Amateur Radio Resources and Links.
+A curated collection of awesome amateur radio resources, links and tools.
 
-# antenna
+> Tip: Look for a specific subpage below or browse the complete list of links organized by category.
 
+## Index
+
+*   **[Antennas and Propagation](#antennas-and-propagation)** - Projects, theory, manufacturers and propagation prediction.
+*   **[Equipment (Rigs)](#equipment-rigs)** - Radios, analyzers, accessories and manuals.
+*   **[Digital Modes](#digital-modes)** - FT8, JS8Call, Packet, Winlink and more.
+*   **[Morse Code (CW)](#morse-code-cw)** - Learning, practice and resources.
+*   **[Satellites](#satellites)** - Tracking, operation and specific satellites.
+*   **[SDR](#sdr)** - Software, hardware and WebSDRs.
+*   **[Organizations and Regulation](#organizations-and-regulation)** - National and international leagues.
+*   **[Software](#software)** - Applications for logging, control and planning.
+*   **[Learning and Training](#learning-and-training)** - Resources for beginners and advanced operators.
+*   **[Shopping](#shopping)** - Equipment stores by country.
+*   **[Regional Resources](#regional-resources)** - Country-specific information.
+
+## Antennas and Propagation
+
+### Antennas
 - [2m Slot Antenna](http://w6nbc.com/articles/20xx-dishslot.pdf)
 - [6m RG-58 vertical](https://youtu.be/4h7UGNbWmsY)
 - [10m Vertical](https://www.qsl.net/k8mcr/downloads/10meterverticalproject.pdf)
@@ -37,51 +54,76 @@ Awesome Amateur Radio Resources and Links.
 - [TXYFYP MLA-30 Loop](https://www.amazon.it/dp/B083DY2BJS)
 - [VHF UHF Duplexer](http://www.radioamatoripeligni.it/i6ibe/duplexer/duplexer.htm)
 
-## analyzer
-
+### Antenna Analyzers
 - [nanoVNA](https://nanovna.com/)
 - [Getting Started With The NanoVNA (1)](https://hexandflex.com/2019/08/31/getting-started-with-the-nanovna-part-1/)
 - [Getting Started With The NanoVNA (2)](http://www.gunthard-kraus.de/fertig_NanoVNA/English/English_NanoVNA_2020_part%201.pdf)
 - [MFJ 259D](https://mfjenterprises.com/products/mfj-259d)
 
-## balun
-
+### Baluns and Tuners
 - [9:1 Balun](http://www.radioamatoripeligni.it/i6ibe/pdf/balun9a1.pdf), [also](http://www.radioamatoripeligni.it/i6ibe/balun9a1/balun9a1.htm)
 - [Baluns: what they do and how they do it](http://eznec.com/Amateur/Articles/Baluns.pdf)
-
-## tuner
-
 - [FRI-Match ATU](https://pa0fri.home.xs4all.nl/ATU/FRImatch/FRImatcheng.htm)
 - [Palstar](http://www.palstar.com/en/tuners/)
 
-# band plan
+### Propagation
+- [DX Info Centre](https://www.dxinfocentre.com/)
+- [DX Maps](https://www.dxmaps.com/)
+- [Fast Track to Understanding Ham Radio Propagation](https://www.amazon.com/dp/B07MYNK1GL)
+- [HF Propagation](https://www.voacap.com/)
+- [Introduction to HF Radio Propagation](https://www.sws.bom.gov.au/Educational/5/2/2)
+- [MUF](https://prop.kc2g.com/)
+- [Reverse Beacon Network](http://www.reversebeacon.net/)
+- [Solar Terrestrial Data](http://www.hamqsl.com/solarvhf.php)
+- [Space Weather Parameters and Propagation](http://k9la.us/Jun21_Space_Weather_Parameters_and_Propagation_-_revised_1Jun2021.pdf)
+- [VOACAP](https://www.voacap.com/)
+- [What is Radio Propagation?](https://www.electronics-notes.com/articles/antennas-propagation/propagation-overview/basics.php)
 
-- [Band Plan Radio Rivista](http://www.ari.it/images/stories/hf/dar2-16pagg62-65.pdf)
-- [IARU Region 1 - HF Band Plan](https://www.iaru-r1.org/wp-content/uploads/2021/06/hf_r1_bandplan.pdf)
-- [IARU Region 1 - VHF Band Plan](https://www.iaru-r1.org/wp-content/uploads/2020/12/VHF-Bandplan.pdf)
-- [US Band Plan](assets/US_AMBandPlan_2017.pdf)
+## Equipment (Rigs)
 
-# contest
+### Radios
+#### Baofeng
+- [UV-5R](https://www.baofengradio.com/collections/uv-series/products/uv-5r), [manual](manuals/baofeng-uv5r.pdf)
 
-- 2021
-  - [Italian Activity Contest](http://www.ari.it/contest-vhf-up/iac/regolamento.html)
-  - [58° Trofeo ARI 2021 VHF/UHF & Microwave](http://ari.it/contest-vhf-up/trofei-ari/6609.html)
-- 2021-11-04: [Planet DIGIRADIO 2021](http://www.rdrclub.ru/dni-aktivnosti-rtsrk/391-4-november-planet-digiradio)
+#### Icom
+- [IC 705](https://www.icomamerica.com/en/products/amateur/handheld/705/default.aspx), [manual](https://www.icomjapan.com/support/manual/3063/)
+- [IC 728/729](https://www.universal-radio.com/catalog/hamhf/728.html), [manual](manuals/icom-ic-728-729.pdf)
+- [IC 910](http://www.icomamerica.com/en/products/amateur/satellite/910h/specifications.aspx), [manual](manuals/icom-ic-910.pdf)
+- [IC 7000](http://www.icomamerica.com/en/products/amateur/hf/7000/default.aspx), [manual](manuals/icom-ic-7000.pdf)
+- [IC 7100](https://www.icomeurope.com/en/product/ic-7100/), [manual](manuals/icom-ic-7100.pdf)
+- [IC 7300](https://www.icomeurope.com/en/product/ic-7300/), [manual](manuals/icom-ic-7300.pdf)
+- [IC 7400](https://icomuk.co.uk/ic-7400-hf-50mhz-144mhz-base-station-transceiver/4081/1267/104/), [manual](manuals/icom-ic-7400.pdf)
+- [IC 7600](https://www.icomamerica.com/en/products/amateur/hf/7600/default.aspx), [manual](manuals/icom-ic-7600.pdf)
+- [IC 7610](https://www.icomeurope.com/en/product/ic-7610/), [manual](manuals/icom-ic-7610.pdf)
+- [IC 9700](https://www.icomeurope.com/en/product/ic-9700/), [manual](manuals/icom-ic-9700.pdf), [sats](assets/icom-ic-9700-sat-freqs.csv)
 
-# cw
+#### Kenwood
+- [TR-751/851](https://www.universal-radio.com/catalog/hammulti/tr751a.html), [manual](manuals/kenwood-tr-751-851.pdf)
 
-- [CWops](https://cwops.org/)
-- [FOC Guide to Morse Code Proficiency](https://www.g4ifb.com/FOC_Guide_to_Morse_Code_Proficiency.pdf)
-- [IZ2UUF Koch Android App](https://play.google.com/store/apps/details?id=net.iz2uuf.cwkoch)
-- [Koch](https://stendec.io/morse/koch.html)
-- [Learn CW Online](https://lcwo.net)
-- [Learning CW](http://kn3b.com/learning-cw-morse-code.html)
-- [Morse Runner](http://dxatlas.com/MorseRunner/)
-- [Seiuchy](https://seiuchy.macache.com/)
-- [Straight Key Century Club](http://www.skccgroup.com/)
-- [Zen and the Art of Radiotelegraphy](https://www.qsl.net/ik0ygj/enu/index.html)
+#### Standard
+- [C5608](http://www.rigpix.com/standard/c5608d.htm), [manual](manuals/standard-c5608.pdf)
 
-# digital modes
+#### Yaesu
+- [FT 920](https://www.yaesu.com/indexVS.cfm?cmd=DisplayProducts&ProdCatID=102%20%20%20%20%20%20%20%20%20&encProdID=DF10C1174AF8F8CD5A793D8BC5E26B84&DivisionID=65&isArchived=1), [manual](manuals/yaesu-ft-920.pdf)
+- [FT 991A](https://www.yaesu.com/indexVS.cfm?cmd=DisplayProducts&ProdCatID=102%20%20%20%20%20%20%20%20%20&encProdID=490C4A71118AD0F4E825E89D821B73BB&DivisionID=65&isArchived=0), [manual](manuals/yaesu-ft-991a.pdf)
+- [FT DX 10](https://www.yaesu.com/indexVS.cfm?cmd=DisplayProducts&ProdCatID=102%20%20%20%20%20%20%20%20%20&encProdID=1ABBC23C7EC57175A35CB0FDE7A639A0&DivisionID=65&isArchived=0), [manual](manuals/yaesu-ftdx10.pdf), [tech manual](manuals/yaesu-ftdx10-tech.pdf)
+- [FT DX 101D](https://www.yaesu.com/indexVS.cfm?cmd=DisplayProducts&ProdCatID=102&encProdID=959169DE998192AB87295E90077D740D&DivisionID=65&isArchived=0), [manual](manuals/yaesu-ftdx101mp-d.pdf)
+- [FT DX 101MP](https://www.yaesu.com/indexVS.cfm?cmd=DisplayProducts&ProdCatID=102&encProdID=BA2F414449407A4D3D23461143F88429&DivisionID=65&isArchived=0), [manual](manuals/yaesu-ftdx101mp-d.pdf)
+- [FT DX 3000](https://www.yaesu.com/indexVS.cfm?cmd=DisplayProducts&ProdCatID=102&encProdID=721B3F7D596827E0B37BD528EE1A56F1), [manual](manuals/yaesu-ftdx3000.pdf)
+
+#### Xiegu
+- [G1M](https://xiegu.eu/product/xiegu-g1m/), [manual](manuals/G1M-user-manual-1.0.0-beta.pdf)
+- [G90](https://xiegu.eu/product/xiegu-g90-hf-20w-sdr-transceiver/), [manual](manuals/G90-Operators-Manual-v1.0.4.pdf)
+- [X5105](https://xiegu.eu/product/xiegu-x5105-qrp-transceiver/), [manual](manuals/X5105-User-Manual-v3.0-EN-2.pdf)
+
+### Interfaces
+- [Digirig](https://digirig.net/)
+- [MGE Digicat](https://www.ebay.it/itm/184712007403)
+- [MicroHAM](https://www.microham.com/)
+- [RigExpert TI-3000](https://www.mediaglobe.it/index.php?route=product/product&product_id=8182)
+- [SignaLink USB](https://www.tigertronics.com/slusbmain.htm)
+
+## Digital Modes
 
 - [FreeDV](https://freedv.org/)
 - [FT4 Protocol](https://physics.princeton.edu//pulsar/k1jt/FT4_Protocol.pdf)
@@ -104,15 +146,92 @@ Awesome Amateur Radio Resources and Links.
 - [WSJT-X Split Operation](https://www.k0pir.us/wsjt-x-split-operation/)
 - [WSPRnet](http://wsprnet.org/)
 
-# interface
+## Morse Code (CW)
 
-- [Digirig](https://digirig.net/)
-- [MGE Digicat](https://www.ebay.it/itm/184712007403)
-- [MicroHAM](https://www.microham.com/)
-- [RigExpert TI-3000](https://www.mediaglobe.it/index.php?route=product/product&product_id=8182)
-- [SignaLink USB](https://www.tigertronics.com/slusbmain.htm)
+- [CWops](https://cwops.org/)
+- [FOC Guide to Morse Code Proficiency](https://www.g4ifb.com/FOC_Guide_to_Morse_Code_Proficiency.pdf)
+- [IZ2UUF Koch Android App](https://play.google.com/store/apps/details?id=net.iz2uuf.cwkoch)
+- [Koch](https://stendec.io/morse/koch.html)
+- [Learn CW Online](https://lcwo.net)
+- [Learning CW](http://kn3b.com/learning-cw-morse-code.html)
+- [Morse Runner](http://dxatlas.com/MorseRunner/)
+- [Seiuchy](https://seiuchy.macache.com/)
+- [Straight Key Century Club](http://www.skccgroup.com/)
+- [Zen and the Art of Radiotelegraphy](https://www.qsl.net/ik0ygj/enu/index.html)
 
-# misc
+## Satellites
+
+### General Resources
+- [AMSAT](https://www.amsat.org/)
+- [Getting Started with Amateur Satellites](https://www.amsat.org/product/2020-edition-of-getting-started-with-amateur-satellites-digital-download/)
+- [Live Satellite Status](https://www.amsat.org/status/)
+- [SatNOGS DB](https://db.satnogs.org/)
+- [Station and Operating Hints](https://www.amsat.org/station-and-operating-hints/)
+
+### Specific Satellites
+- [AO-109](https://www.amsat.org/ao-109-radfxsat-2-amsat-fox-1e-open-for-amateur-use/)
+- [ISS](https://www.ariss.org/contact-the-iss.html)
+- [QO-100](https://m0lte.uk/index.php/2019/07/17/qo-100-eshail-2-probably-your-best-ever-dx/)
+
+## SDR
+
+- [DragonOS](https://cemaxecuter.com/)
+- [hdsdr](http://hdsdr.de/)
+- [kiwisdr](http://kiwisdr.com/)
+- [OpenWebRX](https://www.openwebrx.de/)
+- [Receiver Book](https://www.receiverbook.de/)
+- [WebSDR](http://www.websdr.org/)
+
+## Organizations and Regulation
+
+### Global
+- [IARU](https://www.iaru.org/)
+
+### By Country
+- Australia 🇦🇺
+  - [WIA](https://www.wia.org.au)
+  - [RASA](https://vkradioamateurs.org)
+- Canada 🇨🇦
+  - [RAC](https://www.rac.ca/)
+- Germany 🇩🇪
+  - [DARC](https://www.darc.de/)
+- Italy 🇮🇹
+  - [ARI](http://ari.it/)
+- Japan 🇯🇵
+  - [JARL](https://jarl.org/)
+- New Zealand 🇳🇿
+  - [NZART](https://www.nzart.org.nz/)
+- UK 🇬🇧
+  - [GQRP](http://www.gqrp.com/)
+  - [RSGB](https://rsgb.org/)
+- USA 🇺🇸
+  - [ARRL](http://www.arrl.org/)
+  - [TAPR](https://tapr.org/)
+
+### Band Plans
+- [Band Plan Radio Rivista](http://www.ari.it/images/stories/hf/dar2-16pagg62-65.pdf)
+- [IARU Region 1 - HF Band Plan](https://www.iaru-r1.org/wp-content/uploads/2021/06/hf_r1_bandplan.pdf)
+- [IARU Region 1 - VHF Band Plan](https://www.iaru-r1.org/wp-content/uploads/2020/12/VHF-Bandplan.pdf)
+- [US Band Plan](assets/US_AMBandPlan_2017.pdf)
+
+## Software
+
+### Digital Mode Software
+- [Gridtracker](https://gridtracker.org/grid-tracker/)
+- [JTDX](https://www.jtdx.tech/en/)
+- [WSJT-X](https://physics.princeton.edu/pulsar/k1jt/wsjtx.html)
+- [WSPRnet](http://wsprnet.org/)
+
+### SDR Software
+- [DragonOS](https://cemaxecuter.com/)
+- [hdsdr](http://hdsdr.de/)
+- [OpenWebRX](https://www.openwebrx.de/)
+
+### CW Software
+- [Morse Runner](http://dxatlas.com/MorseRunner/)
+- [Seiuchy](https://seiuchy.macache.com/)
+
+## Learning and Training
 
 - [425 DX News](https://www.425dxn.org/)
 - [Choke Cookbook](http://k9yc.com/2018Cookbook.pdf)
@@ -120,7 +239,6 @@ Awesome Amateur Radio Resources and Links.
 - [Common-Mode Chokes](http://www.yccc.org/Articles/W1HIS/CommonModeChokesW1HIS2006Apr06.pdf)
 - [Communicating with Other Hams](http://www.arrl.org/files/file/Get%20on%20the%20Air/Comm%20w%20Other%20Hams-Q%20Signals.pdf)
 - [Contest Calendar](https://www.contestcalendar.com/)
-- [HFlink](http://hflink.com/)
 - [DX Zone](https://www.dxzone.com/)
 - [Everything You Need to Know About USB and Serial Interfaces](https://www.kkn.net/~n6tv/N6TV_Dayton_2019_Everything_USB.pdf)
 - [G5RV Biography](http://www.astrosurf.com/luxorion/Radio/g5rv-biography-mercury.pdf)
@@ -142,123 +260,25 @@ Awesome Amateur Radio Resources and Links.
 - [TRUE BLUE DXers CLUB](https://www.tbdxc.net/)
 - [VHF Communications Magazine](http://www.vhfcomm.co.uk/)
 
-## Italy
+## Contesting
 
-- [Frequenze Civili](https://www.iz3veo.it/download-doc/file/doc/TUTTE_LE_FREQUENZE_SEGRETE_V-2.pdf)
-- [Ponti](http://www.ik2ane.it/pontipdf.pdf)
+### Contest Resources
+- [Contest Calendar](https://www.contestcalendar.com/)
 
-# organizations
+### Specific Contests
+- 2021
+  - [Italian Activity Contest](http://www.ari.it/contest-vhf-up/iac/regolamento.html)
+  - [58° Trofeo ARI 2021 VHF/UHF & Microwave](http://ari.it/contest-vhf-up/trofei-ari/6609.html)
+- 2021-11-04: [Planet DIGIRADIO 2021](http://www.rdrclub.ru/dni-aktivnosti-rtsrk/391-4-november-planet-digiradio)
 
-## global
+## Shopping
 
-- [IARU](https://www.iaru.org/)
-
-## by country
-
-- Australia 🇦🇺
-  - [WIA](https://www.wia.org.au)
-  - [RASA](https://vkradioamateurs.org)
-- Canada 🇨🇦
-  - [RAC](https://www.rac.ca/)
-- Germany 🇩🇪
-  - [DARC](https://www.darc.de/)
-- Italy 🇮🇹
-  - [ARI](http://ari.it/)
-- Japan 🇯🇵
-  - [JARL](https://jarl.org/)
-- New Zealand 🇳🇿
-  - [NZART](https://www.nzart.org.nz/)
-- UK 🇬🇧
-  - [GQRP](http://www.gqrp.com/)
-  - [RSGB](https://rsgb.org/)
-- USA 🇺🇸
-  - [ARRL](http://www.arrl.org/)
-  - [TAPR](https://tapr.org/)
-
-# propagation
-
-- [DX Info Centre](https://www.dxinfocentre.com/)
-- [DX Maps](https://www.dxmaps.com/)
-- [Fast Track to Understanding Ham Radio Propagation](https://www.amazon.com/dp/B07MYNK1GL)
-- [HF Propagation](https://www.voacap.com/)
-- [Introduction to HF Radio Propagation](https://www.sws.bom.gov.au/Educational/5/2/2)
-- [MUF](https://prop.kc2g.com/)
-- [Reverse Beacon Network](http://www.reversebeacon.net/)
-- [Solar Terrestrial Data](http://www.hamqsl.com/solarvhf.php)
-- [Space Weather Parameters and Propagation](http://k9la.us/Jun21_Space_Weather_Parameters_and_Propagation_-_revised_1Jun2021.pdf)
-- [VOACAP](https://www.voacap.com/)
-- [What is Radio Propagation?](https://www.electronics-notes.com/articles/antennas-propagation/propagation-overview/basics.php)
-
-
-# rig
-
-- Baofeng
-  - [UV-5R](https://www.baofengradio.com/collections/uv-series/products/uv-5r), [manual](manuals/baofeng-uv5r.pdf)
-- Icom
-  - [IC 705](https://www.icomamerica.com/en/products/amateur/handheld/705/default.aspx), [manual](https://www.icomjapan.com/support/manual/3063/)
-  - [IC 728/729](https://www.universal-radio.com/catalog/hamhf/728.html), [manual](manuals/icom-ic-728-729.pdf)
-  - [IC 910](http://www.icomamerica.com/en/products/amateur/satellite/910h/specifications.aspx), [manual](manuals/icom-ic-910.pdf)
-  - [IC 7000](http://www.icomamerica.com/en/products/amateur/hf/7000/default.aspx), [manual](manuals/icom-ic-7000.pdf)
-  - [IC 7100](https://www.icomeurope.com/en/product/ic-7100/), [manual](manuals/icom-ic-7100.pdf)
-  - [IC 7300](https://www.icomeurope.com/en/product/ic-7300/), [manual](manuals/icom-ic-7300.pdf)
-  - [IC 7400](https://icomuk.co.uk/ic-7400-hf-50mhz-144mhz-base-station-transceiver/4081/1267/104/), [manual](manuals/icom-ic-7400.pdf)
-  - [IC 7600](https://www.icomamerica.com/en/products/amateur/hf/7600/default.aspx), [manual](manuals/icom-ic-7600.pdf)
-  - [IC 7610](https://www.icomeurope.com/en/product/ic-7610/), [manual](manuals/icom-ic-7610.pdf)
-  - [IC 9700](https://www.icomeurope.com/en/product/ic-9700/), [manual](manuals/icom-ic-9700.pdf), [sats](assets/icom-ic-9700-sat-freqs.csv)
-- Kenwood
-  - [TR-751/851](https://www.universal-radio.com/catalog/hammulti/tr751a.html), [manual](manuals/kenwood-tr-751-851.pdf)
-- Standard
-  - [C5608](http://www.rigpix.com/standard/c5608d.htm), [manual](manuals/standard-c5608.pdf)
-- Yaesu
-  - [FT 920](https://www.yaesu.com/indexVS.cfm?cmd=DisplayProducts&ProdCatID=102%20%20%20%20%20%20%20%20%20&encProdID=DF10C1174AF8F8CD5A793D8BC5E26B84&DivisionID=65&isArchived=1),
-      [manual](manuals/yaesu-ft-920.pdf)
-  - [FT 991A](https://www.yaesu.com/indexVS.cfm?cmd=DisplayProducts&ProdCatID=102%20%20%20%20%20%20%20%20%20&encProdID=490C4A71118AD0F4E825E89D821B73BB&DivisionID=65&isArchived=0),
-      [manual](manuals/yaesu-ft-991a.pdf)
-  - [FT DX 10](https://www.yaesu.com/indexVS.cfm?cmd=DisplayProducts&ProdCatID=102%20%20%20%20%20%20%20%20%20&encProdID=1ABBC23C7EC57175A35CB0FDE7A639A0&DivisionID=65&isArchived=0),
-      [manual](manuals/yaesu-ftdx10.pdf), [tech manual](manuals/yaesu-ftdx10-tech.pdf)
-  - [FT DX 101D](https://www.yaesu.com/indexVS.cfm?cmd=DisplayProducts&ProdCatID=102&encProdID=959169DE998192AB87295E90077D740D&DivisionID=65&isArchived=0),
-      [manual](manuals/yaesu-ftdx101mp-d.pdf)
-  - [FT DX 101MP](https://www.yaesu.com/indexVS.cfm?cmd=DisplayProducts&ProdCatID=102&encProdID=BA2F414449407A4D3D23461143F88429&DivisionID=65&isArchived=0),
-      [manual](manuals/yaesu-ftdx101mp-d.pdf)
-  - [FT DX 3000](https://www.yaesu.com/indexVS.cfm?cmd=DisplayProducts&ProdCatID=102&encProdID=721B3F7D596827E0B37BD528EE1A56F1),
-      [manual](manuals/yaesu-ftdx3000.pdf)
-- Xiegu
-  - [G1M](https://xiegu.eu/product/xiegu-g1m/), [manual](manuals/G1M-user-manual-1.0.0-beta.pdf)
-  - [G90](https://xiegu.eu/product/xiegu-g90-hf-20w-sdr-transceiver/), [manual](manuals/G90-Operators-Manual-v1.0.4.pdf)
-  - [X5105](https://xiegu.eu/product/xiegu-x5105-qrp-transceiver/), [manual](manuals/X5105-User-Manual-v3.0-EN-2.pdf)
-
-# satellite
-
-- [AMSAT](https://www.amsat.org/)
-- [Getting Started with Amateur Satellites](https://www.amsat.org/product/2020-edition-of-getting-started-with-amateur-satellites-digital-download/)
-- [Live Satellite Status](https://www.amsat.org/status/)
-- [SatNOGS DB](https://db.satnogs.org/)
-- [Station and Operating Hints](https://www.amsat.org/station-and-operating-hints/)
-
-## birds
-
-- [AO-109](https://www.amsat.org/ao-109-radfxsat-2-amsat-fox-1e-open-for-amateur-use/)
-- [ISS](https://www.ariss.org/contact-the-iss.html)
-- [QO-100](https://m0lte.uk/index.php/2019/07/17/qo-100-eshail-2-probably-your-best-ever-dx/)
-
-
-# sdr
-
-- [DragonOS](https://cemaxecuter.com/)
-- [hdsdr](http://hdsdr.de/)
-- [kiwisdr](http://kiwisdr.com/)
-- [OpenWebRX](https://www.openwebrx.de/)
-- [Receiver Book](https://www.receiverbook.de/)
-- [WebSDR](http://www.websdr.org/)
-
-# shopping
-
-Although these shops are listed by country, they might provide world wide shipping.
+*Although these shops are listed by country, they might provide worldwide shipping.*
 
 - Australia 🇦🇺
   - [Andrews](http://www.andrewscom.com.au)
   - [MiniKits](https://www.minikits.com.au)
-  - [TTS Systems](https://www.ttssystems.com.au/) A good source of Amidon toroids / beads
+  - [TTS Systems](https://www.ttssystems.com.au/) - A good source of Amidon toroids / beads
   - [Strictly Ham](https://www.strictlyham.com.au)
 - Canada 🇨🇦
   - [Radio World](https://www.radioworld.ca/)
@@ -266,11 +286,11 @@ Although these shops are listed by country, they might provide world wide shippi
   - [Passion Radio](https://www.passion-radio.com/)
   - [XBS Telecom](https://www.xbstelecom.eu/)
 - Germany 🇩🇪
-  - [Wimo](https://www.wimo.com/) 
+  - [Wimo](https://www.wimo.com/)
 - Italy 🇮🇹
   - [Antenna Hub](https://antennahub.it/)
   - [Bertoncelli](https://www.bertoncellisas.it/)
-  - [Carlo Bianconi](http://www.carlobianconi.com) 
+  - [Carlo Bianconi](http://www.carlobianconi.com)
   - [CSY & Son](https://www.csyeson.it/)
   - [DAE](http://www.dae.it/)
   - [Elad](https://www.eladit.com/)
@@ -313,3 +333,22 @@ Although these shops are listed by country, they might provide world wide shippi
   - [Radio Daze](https://www.radiodaze.com/)
   - [RFSpace](http://www.rfspace.com/)
   - [West Mountain Radio](http://www.westmountainradio.com/)
+
+## Regional Resources
+
+### Italy
+- [Frequenze Civili](https://www.iz3veo.it/download-doc/file/doc/TUTTE_LE_FREQUENZE_SEGRETE_V-2.pdf)
+- [Ponti](http://www.ik2ane.it/pontipdf.pdf)
+
+## Repository Files
+
+*   [`/assets/`](./assets/) - Diagrams, images and other media files.
+*   [`/manuals/`](./manuals/) - Equipment manuals (when publicly available).
+
+## How to Contribute
+
+Your contributions are welcome! Please read the [contribution guide](CONTRIBUTING.md) before submitting a pull request.
+
+---
+
+*If you find this project useful, please consider giving it a star ⭐ on GitHub!*
