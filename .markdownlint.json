@@ -19,10 +19,12 @@
     "strict": false,
     "stern": false
   },
+  "MD022": false,
   "MD024": {
     "siblings_only": true
   },
   "MD030": false,
+  "MD032": false,
   "MD033": false,
   "MD034": false,
   "MD041": false
