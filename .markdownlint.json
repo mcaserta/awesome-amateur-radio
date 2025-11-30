@@ -3,6 +3,9 @@
   "MD003": {
     "style": "atx"
   },
+  "MD004": {
+    "style": "dash"
+  },
   "MD007": {
     "indent": 4
   },
@@ -18,6 +21,10 @@
   },
   "MD024": {
     "siblings_only": true
+  },
+  "MD030": {
+    "ul_single": 3,
+    "ul_multi": 3
   },
   "MD033": false,
   "MD034": false,

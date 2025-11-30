@@ -11,23 +11,24 @@ A curated collection of awesome amateur radio resources, links and tools.
 
 ## Index
 
-* **[Antennas and Propagation](#antennas-and-propagation)** - Projects, theory, manufacturers and propagation prediction.
-* **[Equipment (Rigs)](#equipment-rigs)** - Radios, analyzers, accessories and manuals.
-* **[Digital Modes](#digital-modes)** - FT8, JS8Call, Packet, Winlink and more.
-* **[Morse Code (CW)](#morse-code-cw)** - Learning, practice and resources.
-* **[Satellites](#satellites)** - Tracking, operation and specific satellites.
-* **[SDR](#sdr)** - Software, hardware and WebSDRs.
-* **[Organizations and Regulation](#organizations-and-regulation)** - National and international leagues.
-* **[Software](#software)** - Logging, APRS, antenna modeling, digital modes and more.
-* **[Emergency Communications](#emergency-communications)** - ARES, RACES, Winlink and emergency services.
-* **[Learning and Training](#learning-and-training)** - Getting started, exam prep and educational resources.
-* **[Media and Community](#media-and-community)** - YouTube channels, podcasts and online communities.
-* **[Shopping](#shopping)** - Equipment stores by country.
-* **[Regional Resources](#regional-resources)** - Country-specific information.
+-   **[Antennas and Propagation](#antennas-and-propagation)** - Projects, theory, manufacturers and propagation prediction.
+-   **[Equipment (Rigs)](#equipment-rigs)** - Radios, analyzers, accessories and manuals.
+-   **[Digital Modes](#digital-modes)** - FT8, JS8Call, Packet, Winlink and more.
+-   **[Morse Code (CW)](#morse-code-cw)** - Learning, practice and resources.
+-   **[Satellites](#satellites)** - Tracking, operation and specific satellites.
+-   **[SDR](#sdr)** - Software, hardware and WebSDRs.
+-   **[Organizations and Regulation](#organizations-and-regulation)** - National and international leagues.
+-   **[Software](#software)** - Logging, APRS, antenna modeling, digital modes and more.
+-   **[Emergency Communications](#emergency-communications)** - ARES, RACES, Winlink and emergency services.
+-   **[Learning and Training](#learning-and-training)** - Getting started, exam prep and educational resources.
+-   **[Media and Community](#media-and-community)** - YouTube channels, podcasts and online communities.
+-   **[Shopping](#shopping)** - Equipment stores by country.
+-   **[Regional Resources](#regional-resources)** - Country-specific information.
 
 ## Antennas and Propagation
 
 ### Antennas
+
 - [2m Slot Antenna](http://w6nbc.com/articles/20xx-dishslot.pdf)
 - [6m RG-58 vertical](https://youtu.be/4h7UGNbWmsY)
 - [10m Vertical](https://www.qsl.net/k8mcr/downloads/10meterverticalproject.pdf)
