@@ -22,6 +22,7 @@ Thank you for your interest in contributing to Awesome Amateur Radio! This guide
 ### Quality Standards
 
 Resources should be:
+
 - **Relevant** to amateur radio operators
 - **Active** and maintained (not abandoned projects)
 - **High quality** and valuable to the community
@@ -31,6 +32,7 @@ Resources should be:
 ### What to Include
 
 Great additions include:
+
 - Open source software and tools
 - Educational resources and tutorials
 - Active communities and forums
@@ -41,6 +43,7 @@ Great additions include:
 ### What NOT to Include
 
 Please avoid:
+
 - Paid services without clear value proposition
 - Duplicate resources already listed
 - Commercial spam or self-promotion without community value
@@ -50,6 +53,7 @@ Please avoid:
 ### Updating Existing Entries
 
 If you find:
+
 - **Broken links**: Submit a PR with a fix or replacement
 - **Outdated information**: Update with current details
 - **Better descriptions**: Improve clarity while staying concise
@@ -57,6 +61,7 @@ If you find:
 ### Section Organization
 
 The repository is organized by topic:
+
 - **Antennas and Propagation** - Antenna designs, analyzers, propagation tools
 - **Equipment (Rigs)** - Radios and accessories
 - **Digital Modes** - FT8, WSJT-X, packet radio, etc.
@@ -74,6 +79,7 @@ If your resource doesn't fit existing sections, suggest a new section in your PR
 ### Adding Manuals or Assets
 
 For equipment manuals or other binary files:
+
 - Only include **publicly available** manuals (not copyrighted material)
 - Keep file sizes reasonable (under 10MB when possible)
 - Name files descriptively: `manufacturer-model.pdf`
@@ -94,9 +100,10 @@ For equipment manuals or other binary files:
 
 Please be respectful and constructive in all interactions. We're here to help each other enjoy amateur radio!
 
-### Questions?
+### Questions
 
 If you're unsure about anything:
+
 - Open an issue to discuss before submitting a PR
 - Check the [awesome-list manifesto](https://github.com/sindresorhus/awesome/blob/main/awesome.md) for general guidelines
 - Review existing entries for formatting examples
