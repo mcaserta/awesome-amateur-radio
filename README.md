@@ -167,6 +167,7 @@ A curated collection of awesome amateur radio resources, links and tools.
 - [Seiuchy](https://seiuchy.macache.com/)
 - [Straight Key Century Club](http://www.skccgroup.com/)
 - [Zen and the Art of Radiotelegraphy](https://www.qsl.net/ik0ygj/enu/index.html)
+- [Morse Code Translator ](https://morsecodeworld.com) — Browser-based Morse code decoder supporting text, audio files, and photos.
 
 ## Satellites
 
