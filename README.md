@@ -164,6 +164,7 @@ A curated collection of awesome amateur radio resources, links and tools.
 - [Learn CW Online](https://lcwo.net)
 - [Learning CW](http://kn3b.com/learning-cw-morse-code.html)
 - [Morse Runner](http://dxatlas.com/MorseRunner/)
+- [Morse Translator](https://morsetranslator.me) — Browser-based text-to-Morse and Morse-to-text translator with real-time conversion, audio playback and adjustable speed.
 - [Seiuchy](https://seiuchy.macache.com/)
 - [Straight Key Century Club](http://www.skccgroup.com/)
 - [Zen and the Art of Radiotelegraphy](https://www.qsl.net/ik0ygj/enu/index.html)
@@ -353,6 +354,7 @@ A curated collection of awesome amateur radio resources, links and tools.
 
 ### CW Software
 - [Morse Runner](http://dxatlas.com/MorseRunner/)
+- [Morse Translator](https://morsetranslator.me) — Browser-based text-to-Morse and Morse-to-text translator with real-time conversion, audio playback and adjustable speed.
 - [Seiuchy](https://seiuchy.macache.com/)
 
 ### Logging Software
