@@ -163,6 +163,7 @@ A curated collection of awesome amateur radio resources, links and tools.
 - [Koch](https://stendec.io/morse/koch.html)
 - [Learn CW Online](https://lcwo.net)
 - [Learning CW](http://kn3b.com/learning-cw-morse-code.html)
+- [Morse Code Free](https://morsecodefree.com) - Free browser Morse translator, live microphone decoder and Koch trainer.
 - [MorseCodeNow](https://morsecodenow.com) - Free text-to-Morse and Morse-to-text tool with audio, full chart and tattoo designs.
 - [Morse Runner](http://dxatlas.com/MorseRunner/)
 - [Morse Translator](https://morsetranslator.me) — Browser-based text-to-Morse and Morse-to-text translator with real-time conversion, audio playback and adjustable speed.
@@ -356,6 +357,7 @@ A curated collection of awesome amateur radio resources, links and tools.
 ### CW Software
 - [Morse Runner](http://dxatlas.com/MorseRunner/)
 - [Morse Translator](https://morsetranslator.me) — Browser-based text-to-Morse and Morse-to-text translator with real-time conversion, audio playback and adjustable speed.
+- [morse-code-audio](https://github.com/bellemann/morse-code-audio) - Dependency-free JavaScript library to encode, play and decode Morse audio.
 - [Seiuchy](https://seiuchy.macache.com/)
 
 ### Logging Software
