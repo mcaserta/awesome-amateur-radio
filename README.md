@@ -167,6 +167,7 @@ A curated collection of awesome amateur radio resources, links and tools.
 - [MorseCodeNow](https://morsecodenow.com) - Free text-to-Morse and Morse-to-text tool with audio, full chart and tattoo designs.
 - [Morse Runner](http://dxatlas.com/MorseRunner/)
 - [Morse Translator](https://morsetranslator.me) — Browser-based text-to-Morse and Morse-to-text translator with real-time conversion, audio playback and adjustable speed.
+- [Online Morse Code](https://onlinemorsecode.com/) - Free browser-based Morse code translator with adjustable-speed CW audio, WAV download, audio decoding, printable chart and learning guides.
 - [Seiuchy](https://seiuchy.macache.com/)
 - [Straight Key Century Club](http://www.skccgroup.com/)
 - [Zen and the Art of Radiotelegraphy](https://www.qsl.net/ik0ygj/enu/index.html)
