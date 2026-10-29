@@ -409,6 +409,7 @@ A curated collection of awesome amateur radio resources, links and tools.
 
 ### License Exam Preparation
 - [AA9PW FCC Exam Practice](https://www.aa9pw.com/) - Online practice exams (free)
+- [Capxule Ham Radio Practice Tests](https://capxule.com/tests/category/amateur-radio) - Technician, General and Extra practice exams from the official question pools (free)
 - [HamExam.org](https://hamexam.org/) - Free practice exams for US licenses (free)
 - [HamStudy.org](https://hamstudy.org/) - Interactive study tools and practice exams (free)
 - [HamTestOnline](https://www.hamtestonline.com/) - Comprehensive online courses (paid)
