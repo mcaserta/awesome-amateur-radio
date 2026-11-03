@@ -357,6 +357,7 @@ A curated collection of awesome amateur radio resources, links and tools.
 - [OpenWebRX](https://www.openwebrx.de/) - Multi-user SDR receiver (Linux, free)
 
 ### CW Software
+- [koch-morse-data](https://github.com/simplemorse/koch-morse-data) - CC0 Koch lesson order, Morse codes and practice words grouped by lesson, as JSON and CSV.
 - [Morse Runner](http://dxatlas.com/MorseRunner/)
 - [Morse Translator](https://morsetranslator.me) — Browser-based text-to-Morse and Morse-to-text translator with real-time conversion, audio playback and adjustable speed.
 - [morse-code-audio](https://github.com/bellemann/morse-code-audio) - Dependency-free JavaScript library to encode, play and decode Morse audio.
