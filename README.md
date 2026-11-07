@@ -181,6 +181,7 @@ A curated collection of awesome amateur radio resources, links and tools.
 - [AMSAT](https://www.amsat.org/)
 - [Getting Started with Amateur Satellites](https://www.amsat.org/product/2020-edition-of-getting-started-with-amateur-satellites-digital-download/)
 - [Live Satellite Status](https://www.amsat.org/status/)
+- [OrbitNight](https://orbitnight.com) - Free satellite pass predictions, Doppler and rotator control in the browser
 - [SatNOGS DB](https://db.satnogs.org/)
 - [Station and Operating Hints](https://www.amsat.org/station-and-operating-hints/)
 
