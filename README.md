@@ -164,6 +164,7 @@ A curated collection of awesome amateur radio resources, links and tools.
 - [Learn CW Online](https://lcwo.net)
 - [Learning CW](http://kn3b.com/learning-cw-morse-code.html)
 - [MorseCodeNow](https://morsecodenow.com) - Free text-to-Morse and Morse-to-text tool with audio, full chart and tattoo designs.
+- [MorsePass](https://morsepass.com) - Free in-browser Koch/Farnsworth trainer, translator audio, WAV export and 2026 FCC exam practice.
 - [Morse Runner](http://dxatlas.com/MorseRunner/)
 - [Morse Translator](https://morsetranslator.me) — Browser-based text-to-Morse and Morse-to-text translator with real-time conversion, audio playback and adjustable speed.
 - - [MorseSnap](https://morsesnap.com/) - Free browser Morse code translator with audio playback, alphabet practice and an audio file decoder.
