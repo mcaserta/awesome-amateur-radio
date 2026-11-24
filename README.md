@@ -75,6 +75,7 @@ A curated collection of awesome amateur radio resources, links and tools.
 - [Palstar](http://www.palstar.com/en/tuners/)
 
 ### Propagation
+- [AetherWeather](https://geebs369.github.io/realaether/) - Live NOAA SWPC Kp, solar wind, flares, and aurora outlook, plus Sky Companion
 - [DX Info Centre](https://www.dxinfocentre.com/)
 - [DX Maps](https://www.dxmaps.com/)
 - [Fast Track to Understanding Ham Radio Propagation](https://www.amazon.com/dp/B07MYNK1GL)
