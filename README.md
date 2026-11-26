@@ -370,6 +370,7 @@ A curated collection of awesome amateur radio resources, links and tools.
 - [CloudLog](https://www.cloudlog.co.uk/) - Web-based logging application (self-hosted, free)
 - [DXKeeper](http://www.dxlabsuite.com/dxkeeper/) - Part of DXLab Suite (Windows, free)
 - [Ham Radio Deluxe](https://www.hamradiodeluxe.com/) - Comprehensive logging and rig control (Windows/Mac, paid)
+- [Log Mender](https://hamlog.rowhousesoftware.com/) - Fix and merge ADIF logs and find duplicate contacts; files stay in your browser (web, free up to 500 QSOs, $19 one time for more)
 - [Log4OM](https://www.log4om.com/) - Free logging and rig control software (Windows, free)
 - [N1MM Logger+](https://n1mmwp.hamdocs.com/) - Contest logging software (Windows, free)
 - [N3FJP Amateur Contact Log](https://www.n3fjp.com/) - Comprehensive logging suite (Windows, paid/demo)
