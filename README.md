@@ -438,6 +438,7 @@ A curated collection of awesome amateur radio resources, links and tools.
 - [ICAO/NATO Spelling Alphabet](https://en.wikipedia.org/wiki/NATO_phonetic_alphabet)
 - [Low-Pass Filter Designs](https://www.sotabeams.co.uk/content/LPF-DESIGNS.pdf)
 - [Meteorological Radiosondes Database](https://radiosondy.info/)
+- [Military Time Tools](https://militarytimetools.com) - Live UTC clock, UTC converter and printable phonetic alphabet chart
 - [Q Code](https://en.wikipedia.org/wiki/Q_code)
 - [QRZ](https://www.qrz.com/)
 - [Radio Museum](https://www.radiomuseum.org/?language_id=2)
